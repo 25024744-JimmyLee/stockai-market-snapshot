@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-01T16:37:13.795Z",
-  "lastRefreshAt": "2026-08-01T16:37:13.795Z",
+  "generatedAt": "2026-08-02T16:37:14.495Z",
+  "lastRefreshAt": "2026-08-02T16:37:14.495Z",
   "source": "vercel-market-data-refresh",
   "provider": "yahoo-finance-chart-quote-or-chart",
   "storage": "github-public-repository",
@@ -1964,7 +1964,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:11.394Z",
+      "fetchedAt": "2026-08-02T16:37:12.181Z",
       "researchOnly": true
     },
     {
@@ -3702,7 +3702,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:11.456Z",
+      "fetchedAt": "2026-08-02T16:37:12.155Z",
       "researchOnly": true
     },
     {
@@ -5440,7 +5440,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:11.387Z",
+      "fetchedAt": "2026-08-02T16:37:12.102Z",
       "researchOnly": true
     },
     {
@@ -7178,7 +7178,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:11.507Z",
+      "fetchedAt": "2026-08-02T16:37:12.268Z",
       "researchOnly": true
     },
     {
@@ -8916,7 +8916,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:11.435Z",
+      "fetchedAt": "2026-08-02T16:37:12.128Z",
       "researchOnly": true
     },
     {
@@ -10654,7 +10654,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:11.410Z",
+      "fetchedAt": "2026-08-02T16:37:12.099Z",
       "researchOnly": true
     },
     {
@@ -10671,7 +10671,7 @@
       "regularMarketDayHigh": 376.732,
       "regularMarketVolume": 3513679,
       "marketCap": 178960649366,
-      "trailingPE": 54.563988,
+      "trailingPE": 54.674107,
       "forwardPE": 0,
       "dividendYield": 0.011377,
       "beta": 1.6726,
@@ -12392,7 +12392,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:11.418Z",
+      "fetchedAt": "2026-08-02T16:37:12.176Z",
       "researchOnly": true
     },
     {
@@ -12409,7 +12409,7 @@
       "regularMarketDayHigh": 80.44,
       "regularMarketVolume": 3484047,
       "marketCap": 38204693895,
-      "trailingPE": 35.986607,
+      "trailingPE": 35.388393,
       "forwardPE": 0,
       "dividendYield": 0.025987,
       "beta": -0.0046,
@@ -14130,7 +14130,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:11.479Z",
+      "fetchedAt": "2026-08-02T16:37:12.218Z",
       "researchOnly": true
     },
     {
@@ -14147,7 +14147,7 @@
       "regularMarketDayHigh": 266.93,
       "regularMarketVolume": 2462535,
       "marketCap": 105997788000,
-      "trailingPE": 24.119744,
+      "trailingPE": 24.35649,
       "forwardPE": 0,
       "dividendYield": 0.024919,
       "beta": -0.2343,
@@ -15868,7 +15868,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:11.499Z",
+      "fetchedAt": "2026-08-02T16:37:12.201Z",
       "researchOnly": true
     },
     {
@@ -15885,7 +15885,7 @@
       "regularMarketDayHigh": 78.94,
       "regularMarketVolume": 1777389,
       "marketCap": 41663604846,
-      "trailingPE": 13.889085,
+      "trailingPE": 13.834507,
       "forwardPE": 0,
       "dividendYield": 0.023543,
       "beta": 0.049,
@@ -17606,7 +17606,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:11.477Z",
+      "fetchedAt": "2026-08-02T16:37:12.187Z",
       "researchOnly": true
     },
     {
@@ -19344,7 +19344,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:11.546Z",
+      "fetchedAt": "2026-08-02T16:37:12.197Z",
       "researchOnly": true
     },
     {
@@ -19361,7 +19361,7 @@
       "regularMarketDayHigh": 536.54,
       "regularMarketVolume": 7057569,
       "marketCap": 403069383828,
-      "trailingPE": 47.203198,
+      "trailingPE": 47.758231,
       "forwardPE": 0,
       "dividendYield": 0.003762,
       "beta": 3.0008,
@@ -21082,7 +21082,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:11.491Z",
+      "fetchedAt": "2026-08-02T16:37:12.182Z",
       "researchOnly": true
     },
     {
@@ -22820,7 +22820,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:11.583Z",
+      "fetchedAt": "2026-08-02T16:37:12.270Z",
       "researchOnly": true
     },
     {
@@ -22837,7 +22837,7 @@
       "regularMarketDayHigh": 386.819,
       "regularMarketVolume": 1927666,
       "marketCap": 207874038813,
-      "trailingPE": 26.975644,
+      "trailingPE": 26.803062,
       "forwardPE": 0,
       "dividendYield": 0.025444,
       "beta": 0.464,
@@ -24558,7 +24558,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:11.616Z",
+      "fetchedAt": "2026-08-02T16:37:12.289Z",
       "researchOnly": true
     },
     {
@@ -26296,7 +26296,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:11.594Z",
+      "fetchedAt": "2026-08-02T16:37:12.271Z",
       "researchOnly": true
     },
     {
@@ -28034,7 +28034,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:11.618Z",
+      "fetchedAt": "2026-08-02T16:37:12.321Z",
       "researchOnly": true
     },
     {
@@ -28051,9 +28051,9 @@
       "regularMarketDayHigh": 365.02,
       "regularMarketVolume": 917990,
       "marketCap": 76481825228,
-      "trailingPE": 20.207828,
+      "trailingPE": 19.875965,
       "forwardPE": 0,
-      "dividendYield": 0.004341,
+      "dividendYield": 0.002274,
       "beta": -0.359,
       "fiftyTwoWeekLow": 0,
       "fiftyTwoWeekHigh": 0,
@@ -29772,7 +29772,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:11.718Z",
+      "fetchedAt": "2026-08-02T16:37:12.401Z",
       "researchOnly": true
     },
     {
@@ -31510,7 +31510,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:11.680Z",
+      "fetchedAt": "2026-08-02T16:37:12.338Z",
       "researchOnly": true
     },
     {
@@ -33248,7 +33248,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:11.635Z",
+      "fetchedAt": "2026-08-02T16:37:12.344Z",
       "researchOnly": true
     },
     {
@@ -34986,7 +34986,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:11.637Z",
+      "fetchedAt": "2026-08-02T16:37:12.336Z",
       "researchOnly": true
     },
     {
@@ -35003,7 +35003,7 @@
       "regularMarketDayHigh": 340.3,
       "regularMarketVolume": 2327235,
       "marketCap": 227072931346,
-      "trailingPE": 20.480583,
+      "trailingPE": 20.403519,
       "forwardPE": 0,
       "dividendYield": 0.010528,
       "beta": 0.8981,
@@ -36724,7 +36724,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:11.801Z",
+      "fetchedAt": "2026-08-02T16:37:12.460Z",
       "researchOnly": true
     },
     {
@@ -36741,7 +36741,7 @@
       "regularMarketDayHigh": 3040.15,
       "regularMarketVolume": 94145,
       "marketCap": 49241352018,
-      "trailingPE": 20.679345,
+      "trailingPE": 20.745925,
       "forwardPE": 0,
       "dividendYield": 0,
       "beta": 0.2766,
@@ -38462,7 +38462,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:11.678Z",
+      "fetchedAt": "2026-08-02T16:37:12.342Z",
       "researchOnly": true
     },
     {
@@ -38479,7 +38479,7 @@
       "regularMarketDayHigh": 221.5,
       "regularMarketVolume": 7207359,
       "marketCap": 170830576122,
-      "trailingPE": 79.460432,
+      "trailingPE": 77.748201,
       "forwardPE": 0,
       "dividendYield": 0,
       "beta": 1.2752,
@@ -40200,7 +40200,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:11.754Z",
+      "fetchedAt": "2026-08-02T16:37:12.479Z",
       "researchOnly": true
     },
     {
@@ -40217,7 +40217,7 @@
       "regularMarketDayHigh": 62.24,
       "regularMarketVolume": 15925369,
       "marketCap": 434763084147,
-      "trailingPE": 14.256351,
+      "trailingPE": 14.307159,
       "forwardPE": 0,
       "dividendYield": 0.018079,
       "beta": 0.7173,
@@ -41938,7 +41938,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:11.805Z",
+      "fetchedAt": "2026-08-02T16:37:12.464Z",
       "researchOnly": true
     },
     {
@@ -42007,7 +42007,7 @@
       "regularMarketDayHigh": 194.96,
       "regularMarketVolume": 4436735,
       "marketCap": 149474050304,
-      "trailingPE": 25.48399,
+      "trailingPE": 25.439152,
       "forwardPE": 0,
       "dividendYield": 0.008336,
       "beta": 0.9025,
@@ -43728,7 +43728,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:11.813Z",
+      "fetchedAt": "2026-08-02T16:37:12.485Z",
       "researchOnly": true
     },
     {
@@ -45466,7 +45466,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:11.860Z",
+      "fetchedAt": "2026-08-02T16:37:12.536Z",
       "researchOnly": true
     },
     {
@@ -45483,7 +45483,7 @@
       "regularMarketDayHigh": 1104.185,
       "regularMarketVolume": 374905,
       "marketCap": 169005422211,
-      "trailingPE": 26.320872,
+      "trailingPE": 26.129643,
       "forwardPE": 0,
       "dividendYield": 0.020066,
       "beta": 1.2387,
@@ -47204,7 +47204,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:11.862Z",
+      "fetchedAt": "2026-08-02T16:37:12.522Z",
       "researchOnly": true
     },
     {
@@ -48942,7 +48942,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:11.887Z",
+      "fetchedAt": "2026-08-02T16:37:12.600Z",
       "researchOnly": true
     },
     {
@@ -48959,7 +48959,7 @@
       "regularMarketDayHigh": 513.03,
       "regularMarketVolume": 2521127,
       "marketCap": 1102958148736,
-      "trailingPE": 15.17205,
+      "trailingPE": 15.227419,
       "forwardPE": 0,
       "dividendYield": 0,
       "beta": 0.0404,
@@ -50680,7 +50680,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:11.850Z",
+      "fetchedAt": "2026-08-02T16:37:12.494Z",
       "researchOnly": true
     },
     {
@@ -50697,7 +50697,7 @@
       "regularMarketDayHigh": 46.8,
       "regularMarketVolume": 18672329,
       "marketCap": 69457377514,
-      "trailingPE": 18.623482,
+      "trailingPE": 18.919028,
       "forwardPE": 0,
       "dividendYield": 0,
       "beta": 0.1451,
@@ -52418,7 +52418,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:11.861Z",
+      "fetchedAt": "2026-08-02T16:37:12.526Z",
       "researchOnly": true
     },
     {
@@ -52435,7 +52435,7 @@
       "regularMarketDayHigh": 129.07,
       "regularMarketVolume": 4893106,
       "marketCap": 102191642467,
-      "trailingPE": 28.651007,
+      "trailingPE": 28.579418,
       "forwardPE": 0,
       "dividendYield": 0.038904,
       "beta": 1.371,
@@ -54156,7 +54156,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:11.921Z",
+      "fetchedAt": "2026-08-02T16:37:12.558Z",
       "researchOnly": true
     },
     {
@@ -54173,7 +54173,7 @@
       "regularMarketDayHigh": 135.44,
       "regularMarketVolume": 9588885,
       "marketCap": 222171630000,
-      "trailingPE": 14.258621,
+      "trailingPE": 14.272629,
       "forwardPE": 0,
       "dividendYield": 0.01812,
       "beta": 1.3777,
@@ -55894,7 +55894,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:11.960Z",
+      "fetchedAt": "2026-08-02T16:37:12.624Z",
       "researchOnly": true
     },
     {
@@ -55911,7 +55911,7 @@
       "regularMarketDayHigh": 844.99,
       "regularMarketVolume": 2390364,
       "marketCap": 375294953668,
-      "trailingPE": 40.295817,
+      "trailingPE": 40.578187,
       "forwardPE": 0,
       "dividendYield": 0.00756,
       "beta": 1.8688,
@@ -57632,7 +57632,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:11.958Z",
+      "fetchedAt": "2026-08-02T16:37:12.608Z",
       "researchOnly": true
     },
     {
@@ -59370,7 +59370,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:11.927Z",
+      "fetchedAt": "2026-08-02T16:37:12.618Z",
       "researchOnly": true
     },
     {
@@ -59387,7 +59387,7 @@
       "regularMarketDayHigh": 27.99,
       "regularMarketVolume": 17254862,
       "marketCap": 38089941999,
-      "trailingPE": 12.509009,
+      "trailingPE": 12.527027,
       "forwardPE": 0,
       "dividendYield": 0.010787,
       "beta": 2.4644,
@@ -61108,7 +61108,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:11.979Z",
+      "fetchedAt": "2026-08-02T16:37:12.625Z",
       "researchOnly": true
     },
     {
@@ -62846,7 +62846,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:11.938Z",
+      "fetchedAt": "2026-08-02T16:37:12.616Z",
       "researchOnly": true
     },
     {
@@ -64584,7 +64584,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:11.995Z",
+      "fetchedAt": "2026-08-02T16:37:12.642Z",
       "researchOnly": true
     },
     {
@@ -66322,7 +66322,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.006Z",
+      "fetchedAt": "2026-08-02T16:37:12.694Z",
       "researchOnly": true
     },
     {
@@ -66339,7 +66339,7 @@
       "regularMarketDayHigh": 96.27,
       "regularMarketVolume": 3132754,
       "marketCap": 11551616661,
-      "trailingPE": 15.728455,
+      "trailingPE": 15.533333,
       "forwardPE": 0,
       "dividendYield": 0.051921,
       "beta": 0.2108,
@@ -68060,7 +68060,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.041Z",
+      "fetchedAt": "2026-08-02T16:37:12.683Z",
       "researchOnly": true
     },
     {
@@ -68077,7 +68077,7 @@
       "regularMarketDayHigh": 24.145,
       "regularMarketVolume": 26242187,
       "marketCap": 85025332289,
-      "trailingPE": 7.586538,
+      "trailingPE": 7.679487,
       "forwardPE": 0,
       "dividendYield": 0.054227,
       "beta": 0.0074,
@@ -69798,7 +69798,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.004Z",
+      "fetchedAt": "2026-08-02T16:37:12.651Z",
       "researchOnly": true
     },
     {
@@ -69815,7 +69815,7 @@
       "regularMarketDayHigh": 269.94,
       "regularMarketVolume": 3267689,
       "marketCap": 96291730836,
-      "trailingPE": 22.66497,
+      "trailingPE": 22.713316,
       "forwardPE": 0,
       "dividendYield": 0.042011,
       "beta": -0.3759,
@@ -71536,7 +71536,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:11.997Z",
+      "fetchedAt": "2026-08-02T16:37:12.653Z",
       "researchOnly": true
     },
     {
@@ -73274,7 +73274,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.000Z",
+      "fetchedAt": "2026-08-02T16:37:12.647Z",
       "researchOnly": true
     },
     {
@@ -75012,7 +75012,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.083Z",
+      "fetchedAt": "2026-08-02T16:37:12.747Z",
       "researchOnly": true
     },
     {
@@ -75029,7 +75029,7 @@
       "regularMarketDayHigh": 120.82,
       "regularMarketVolume": 5784624,
       "marketCap": 146780061963,
-      "trailingPE": 20.174576,
+      "trailingPE": 20.420339,
       "forwardPE": 0,
       "dividendYield": 0.02739,
       "beta": -0.9167,
@@ -76750,7 +76750,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.079Z",
+      "fetchedAt": "2026-08-02T16:37:12.796Z",
       "researchOnly": true
     },
     {
@@ -76767,7 +76767,7 @@
       "regularMarketDayHigh": 312.88,
       "regularMarketVolume": 596633,
       "marketCap": 60574640420,
-      "trailingPE": 23.925671,
+      "trailingPE": 23.857471,
       "forwardPE": 0,
       "dividendYield": 0.007548,
       "beta": -0.2359,
@@ -78488,7 +78488,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.108Z",
+      "fetchedAt": "2026-08-02T16:37:12.801Z",
       "researchOnly": true
     },
     {
@@ -78505,9 +78505,9 @@
       "regularMarketDayHigh": 955.56,
       "regularMarketVolume": 1684576,
       "marketCap": 422143038739,
-      "trailingPE": 47.996479,
+      "trailingPE": 47.881791,
       "forwardPE": 0,
-      "dividendYield": 0.007186,
+      "dividendYield": 0.00582,
       "beta": -0.2674,
       "fiftyTwoWeekLow": 0,
       "fiftyTwoWeekHigh": 0,
@@ -80226,7 +80226,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.112Z",
+      "fetchedAt": "2026-08-02T16:37:12.808Z",
       "researchOnly": true
     },
     {
@@ -80243,7 +80243,7 @@
       "regularMarketDayHigh": 29.235,
       "regularMarketVolume": 8008847,
       "marketCap": 26959630355,
-      "trailingPE": 18.363354,
+      "trailingPE": 18.086957,
       "forwardPE": 0,
       "dividendYield": 0,
       "beta": 0.1038,
@@ -81964,7 +81964,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.060Z",
+      "fetchedAt": "2026-08-02T16:37:12.717Z",
       "researchOnly": true
     },
     {
@@ -81981,7 +81981,7 @@
       "regularMarketDayHigh": 184.45,
       "regularMarketVolume": 8402484,
       "marketCap": 150712380000,
-      "trailingPE": 20.939745,
+      "trailingPE": 21.323291,
       "forwardPE": 0,
       "dividendYield": 0.009303,
       "beta": 0.0619,
@@ -83702,7 +83702,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.124Z",
+      "fetchedAt": "2026-08-02T16:37:12.756Z",
       "researchOnly": true
     },
     {
@@ -85440,7 +85440,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.116Z",
+      "fetchedAt": "2026-08-02T16:37:12.761Z",
       "researchOnly": true
     },
     {
@@ -85457,7 +85457,7 @@
       "regularMarketDayHigh": 117.25,
       "regularMarketVolume": 18798354,
       "marketCap": 457167006793,
-      "trailingPE": 37.853333,
+      "trailingPE": 38.663333,
       "forwardPE": 0,
       "dividendYield": 0.014312,
       "beta": 1.1578,
@@ -87178,7 +87178,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.135Z",
+      "fetchedAt": "2026-08-02T16:37:12.815Z",
       "researchOnly": true
     },
     {
@@ -88916,7 +88916,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.153Z",
+      "fetchedAt": "2026-08-02T16:37:12.834Z",
       "researchOnly": true
     },
     {
@@ -88933,7 +88933,7 @@
       "regularMarketDayHigh": 105.77,
       "regularMarketVolume": 7079163,
       "marketCap": 133245088670,
-      "trailingPE": 46.149123,
+      "trailingPE": 45.802632,
       "forwardPE": 0,
       "dividendYield": 0.025472,
       "beta": 0.1162,
@@ -90654,7 +90654,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.154Z",
+      "fetchedAt": "2026-08-02T16:37:12.837Z",
       "researchOnly": true
     },
     {
@@ -92392,7 +92392,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.202Z",
+      "fetchedAt": "2026-08-02T16:37:12.858Z",
       "researchOnly": true
     },
     {
@@ -92409,7 +92409,7 @@
       "regularMarketDayHigh": 602.605,
       "regularMarketVolume": 1123818,
       "marketCap": 159983813674,
-      "trailingPE": 33.964306,
+      "trailingPE": 33.579037,
       "forwardPE": 0,
       "dividendYield": 0.010934,
       "beta": 0.5876,
@@ -94130,7 +94130,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.251Z",
+      "fetchedAt": "2026-08-02T16:37:12.863Z",
       "researchOnly": true
     },
     {
@@ -95868,7 +95868,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.159Z",
+      "fetchedAt": "2026-08-02T16:37:12.838Z",
       "researchOnly": true
     },
     {
@@ -97606,7 +97606,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.179Z",
+      "fetchedAt": "2026-08-02T16:37:12.866Z",
       "researchOnly": true
     },
     {
@@ -97623,7 +97623,7 @@
       "regularMarketDayHigh": 198.575,
       "regularMarketVolume": 3198962,
       "marketCap": 137068220808,
-      "trailingPE": 34.967914,
+      "trailingPE": 34.755793,
       "forwardPE": 0,
       "dividendYield": 0.007385,
       "beta": 0.3751,
@@ -99344,7 +99344,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.203Z",
+      "fetchedAt": "2026-08-02T16:37:12.898Z",
       "researchOnly": true
     },
     {
@@ -99361,7 +99361,7 @@
       "regularMarketDayHigh": 96.58,
       "regularMarketVolume": 8249340,
       "marketCap": 167035033874,
-      "trailingPE": 15.3856,
+      "trailingPE": 15.3904,
       "forwardPE": 0,
       "dividendYield": 0.015594,
       "beta": 0.7055,
@@ -101082,7 +101082,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.285Z",
+      "fetchedAt": "2026-08-02T16:37:12.909Z",
       "researchOnly": true
     },
     {
@@ -101099,7 +101099,7 @@
       "regularMarketDayHigh": 126.38,
       "regularMarketVolume": 3037005,
       "marketCap": 97784753498,
-      "trailingPE": 19.426154,
+      "trailingPE": 19.296923,
       "forwardPE": 0,
       "dividendYield": 0.033963,
       "beta": -0.3322,
@@ -102820,7 +102820,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.265Z",
+      "fetchedAt": "2026-08-02T16:37:12.938Z",
       "researchOnly": true
     },
     {
@@ -104558,7 +104558,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.193Z",
+      "fetchedAt": "2026-08-02T16:37:12.901Z",
       "researchOnly": true
     },
     {
@@ -104575,7 +104575,7 @@
       "regularMarketDayHigh": 209.93,
       "regularMarketVolume": 4850620,
       "marketCap": 52965272662,
-      "trailingPE": 59.712251,
+      "trailingPE": 59.789174,
       "forwardPE": 0,
       "dividendYield": 0.003621,
       "beta": 0.0972,
@@ -106296,7 +106296,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.242Z",
+      "fetchedAt": "2026-08-02T16:37:12.919Z",
       "researchOnly": true
     },
     {
@@ -106313,7 +106313,7 @@
       "regularMarketDayHigh": 114.38,
       "regularMarketVolume": 2883556,
       "marketCap": 50620440000,
-      "trailingPE": 26.21709,
+      "trailingPE": 26.330254,
       "forwardPE": 0,
       "dividendYield": 0.010525,
       "beta": 0.6681,
@@ -108034,7 +108034,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.245Z",
+      "fetchedAt": "2026-08-02T16:37:12.905Z",
       "researchOnly": true
     },
     {
@@ -109772,7 +109772,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.267Z",
+      "fetchedAt": "2026-08-02T16:37:12.940Z",
       "researchOnly": true
     },
     {
@@ -109789,7 +109789,7 @@
       "regularMarketDayHigh": 150.69,
       "regularMarketVolume": 2123217,
       "marketCap": 83914182000,
-      "trailingPE": 34.407407,
+      "trailingPE": 34.680556,
       "forwardPE": 0,
       "dividendYield": 0.014638,
       "beta": 1.6331,
@@ -111510,7 +111510,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.321Z",
+      "fetchedAt": "2026-08-02T16:37:13.024Z",
       "researchOnly": true
     },
     {
@@ -111527,7 +111527,7 @@
       "regularMarketDayHigh": 148.69,
       "regularMarketVolume": 2727209,
       "marketCap": 79196536125,
-      "trailingPE": 14.307768,
+      "trailingPE": 14.620452,
       "forwardPE": 0,
       "dividendYield": 0.02744,
       "beta": -0.894,
@@ -113248,7 +113248,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.287Z",
+      "fetchedAt": "2026-08-02T16:37:12.979Z",
       "researchOnly": true
     },
     {
@@ -113265,7 +113265,7 @@
       "regularMarketDayHigh": 419.36,
       "regularMarketVolume": 4430408,
       "marketCap": 161222160000,
-      "trailingPE": 37.856164,
+      "trailingPE": 40.626223,
       "forwardPE": 0,
       "dividendYield": 0.010308,
       "beta": 1.8089,
@@ -114986,7 +114986,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.319Z",
+      "fetchedAt": "2026-08-02T16:37:13.038Z",
       "researchOnly": true
     },
     {
@@ -115003,7 +115003,7 @@
       "regularMarketDayHigh": 86.98,
       "regularMarketVolume": 3948459,
       "marketCap": 49559106000,
-      "trailingPE": 51.738095,
+      "trailingPE": 51.232143,
       "forwardPE": 0,
       "dividendYield": 0,
       "beta": 0.6137,
@@ -116724,7 +116724,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.289Z",
+      "fetchedAt": "2026-08-02T16:37:12.980Z",
       "researchOnly": true
     },
     {
@@ -118462,7 +118462,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.385Z",
+      "fetchedAt": "2026-08-02T16:37:13.102Z",
       "researchOnly": true
     },
     {
@@ -120200,7 +120200,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.320Z",
+      "fetchedAt": "2026-08-02T16:37:13.056Z",
       "researchOnly": true
     },
     {
@@ -120217,7 +120217,7 @@
       "regularMarketDayHigh": 311.45,
       "regularMarketVolume": 925374,
       "marketCap": 72725057191,
-      "trailingPE": 16.633423,
+      "trailingPE": 16.571429,
       "forwardPE": 0,
       "dividendYield": 0.015372,
       "beta": 0.9064,
@@ -121938,7 +121938,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.357Z",
+      "fetchedAt": "2026-08-02T16:37:13.042Z",
       "researchOnly": true
     },
     {
@@ -123676,7 +123676,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.326Z",
+      "fetchedAt": "2026-08-02T16:37:13.036Z",
       "researchOnly": true
     },
     {
@@ -123693,7 +123693,7 @@
       "regularMarketDayHigh": 384.66,
       "regularMarketVolume": 1523763,
       "marketCap": 103737039706,
-      "trailingPE": 23.304878,
+      "trailingPE": 23.379268,
       "forwardPE": 0,
       "dividendYield": 0.016118,
       "beta": 0.2255,
@@ -125414,7 +125414,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.453Z",
+      "fetchedAt": "2026-08-02T16:37:13.115Z",
       "researchOnly": true
     },
     {
@@ -125431,7 +125431,7 @@
       "regularMarketDayHigh": 362.42,
       "regularMarketVolume": 3048624,
       "marketCap": 373595134055,
-      "trailingPE": 41.867925,
+      "trailingPE": 42.461085,
       "forwardPE": 0,
       "dividendYield": 0.00461,
       "beta": 1.337,
@@ -127152,7 +127152,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.444Z",
+      "fetchedAt": "2026-08-02T16:37:13.137Z",
       "researchOnly": true
     },
     {
@@ -128890,7 +128890,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.361Z",
+      "fetchedAt": "2026-08-02T16:37:13.060Z",
       "researchOnly": true
     },
     {
@@ -128907,7 +128907,7 @@
       "regularMarketDayHigh": 130.885,
       "regularMarketVolume": 6108922,
       "marketCap": 161664813293,
-      "trailingPE": 17.861224,
+      "trailingPE": 17.715646,
       "forwardPE": 0,
       "dividendYield": 0.024729,
       "beta": 0.3499,
@@ -130628,7 +130628,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.373Z",
+      "fetchedAt": "2026-08-02T16:37:13.062Z",
       "researchOnly": true
     },
     {
@@ -132366,7 +132366,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.443Z",
+      "fetchedAt": "2026-08-02T16:37:13.135Z",
       "researchOnly": true
     },
     {
@@ -134104,7 +134104,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.418Z",
+      "fetchedAt": "2026-08-02T16:37:13.132Z",
       "researchOnly": true
     },
     {
@@ -135842,7 +135842,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.429Z",
+      "fetchedAt": "2026-08-02T16:37:13.156Z",
       "researchOnly": true
     },
     {
@@ -135859,7 +135859,7 @@
       "regularMarketDayHigh": 358.55,
       "regularMarketVolume": 46347613,
       "marketCap": 4358320731363,
-      "trailingPE": 16.741596,
+      "trailingPE": 17.869042,
       "forwardPE": 0,
       "dividendYield": 0.002387,
       "beta": 1.3341,
@@ -137580,7 +137580,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.419Z",
+      "fetchedAt": "2026-08-02T16:37:13.184Z",
       "researchOnly": true
     },
     {
@@ -137597,7 +137597,7 @@
       "regularMarketDayHigh": 1042.89,
       "regularMarketVolume": 1191921,
       "marketCap": 300429657397,
-      "trailingPE": 15.82551,
+      "trailingPE": 15.725448,
       "forwardPE": 0,
       "dividendYield": 0.016693,
       "beta": 1.7353,
@@ -139318,7 +139318,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.451Z",
+      "fetchedAt": "2026-08-02T16:37:13.196Z",
       "researchOnly": true
     },
     {
@@ -139335,7 +139335,7 @@
       "regularMarketDayHigh": 32.36,
       "regularMarketVolume": 7300695,
       "marketCap": 26941576953,
-      "trailingPE": 16.565445,
+      "trailingPE": 16.884817,
       "forwardPE": 0,
       "dividendYield": 0.021085,
       "beta": -0.0506,
@@ -141056,7 +141056,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.522Z",
+      "fetchedAt": "2026-08-02T16:37:13.194Z",
       "researchOnly": true
     },
     {
@@ -142794,7 +142794,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.465Z",
+      "fetchedAt": "2026-08-02T16:37:13.181Z",
       "researchOnly": true
     },
     {
@@ -142811,7 +142811,7 @@
       "regularMarketDayHigh": 333.996,
       "regularMarketVolume": 3292591,
       "marketCap": 331002853756,
-      "trailingPE": 23.675426,
+      "trailingPE": 23.576705,
       "forwardPE": 0,
       "dividendYield": 0.027895,
       "beta": 0.7822,
@@ -144532,7 +144532,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.516Z",
+      "fetchedAt": "2026-08-02T16:37:13.237Z",
       "researchOnly": true
     },
     {
@@ -146270,7 +146270,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.489Z",
+      "fetchedAt": "2026-08-02T16:37:13.191Z",
       "researchOnly": true
     },
     {
@@ -146287,7 +146287,7 @@
       "regularMarketDayHigh": 246,
       "regularMarketVolume": 3299187,
       "marketCap": 77032269430,
-      "trailingPE": 9.300654,
+      "trailingPE": 9.344483,
       "forwardPE": 0,
       "dividendYield": 0.02,
       "beta": 0.8039,
@@ -148008,7 +148008,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.589Z",
+      "fetchedAt": "2026-08-02T16:37:13.308Z",
       "researchOnly": true
     },
     {
@@ -148025,7 +148025,7 @@
       "regularMarketDayHigh": 27.33,
       "regularMarketVolume": 19608891,
       "marketCap": 24939033756,
-      "trailingPE": 9.948148,
+      "trailingPE": 10.1,
       "forwardPE": 0,
       "dividendYield": 0.043601,
       "beta": 0.3796,
@@ -149746,7 +149746,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.581Z",
+      "fetchedAt": "2026-08-02T16:37:13.286Z",
       "researchOnly": true
     },
     {
@@ -151484,7 +151484,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.556Z",
+      "fetchedAt": "2026-08-02T16:37:13.286Z",
       "researchOnly": true
     },
     {
@@ -151501,7 +151501,7 @@
       "regularMarketDayHigh": 372.145,
       "regularMarketVolume": 1127047,
       "marketCap": 43692420868,
-      "trailingPE": 34.655955,
+      "trailingPE": 34.391304,
       "forwardPE": 0,
       "dividendYield": 0.009729,
       "beta": 0.4239,
@@ -153222,7 +153222,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.583Z",
+      "fetchedAt": "2026-08-02T16:37:13.301Z",
       "researchOnly": true
     },
     {
@@ -153239,7 +153239,7 @@
       "regularMarketDayHigh": 224.76,
       "regularMarketVolume": 9064130,
       "marketCap": 210708356323,
-      "trailingPE": 19.692718,
+      "trailingPE": 19.862345,
       "forwardPE": 0,
       "dividendYield": 0.030092,
       "beta": 0.73,
@@ -154960,7 +154960,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.624Z",
+      "fetchedAt": "2026-08-02T16:37:13.329Z",
       "researchOnly": true
     },
     {
@@ -156698,7 +156698,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.529Z",
+      "fetchedAt": "2026-08-02T16:37:13.282Z",
       "researchOnly": true
     },
     {
@@ -156715,7 +156715,7 @@
       "regularMarketDayHigh": 563.05,
       "regularMarketVolume": 616929,
       "marketCap": 44101117132,
-      "trailingPE": 41.118469,
+      "trailingPE": 41.138337,
       "forwardPE": 0,
       "dividendYield": 0,
       "beta": 0.8295,
@@ -158436,7 +158436,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.523Z",
+      "fetchedAt": "2026-08-02T16:37:13.276Z",
       "researchOnly": true
     },
     {
@@ -158453,7 +158453,7 @@
       "regularMarketDayHigh": 317.53,
       "regularMarketVolume": 3011897,
       "marketCap": 86456839590,
-      "trailingPE": 19.249542,
+      "trailingPE": 19.28432,
       "forwardPE": 0,
       "dividendYield": 0.015187,
       "beta": -0.0614,
@@ -160174,7 +160174,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.553Z",
+      "fetchedAt": "2026-08-02T16:37:13.291Z",
       "researchOnly": true
     },
     {
@@ -161912,7 +161912,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.540Z",
+      "fetchedAt": "2026-08-02T16:37:13.284Z",
       "researchOnly": true
     },
     {
@@ -161929,7 +161929,7 @@
       "regularMarketDayHigh": 355.093,
       "regularMarketVolume": 2412933,
       "marketCap": 124823729166,
-      "trailingPE": 40.478211,
+      "trailingPE": 40.519495,
       "forwardPE": 0,
       "dividendYield": 0,
       "beta": 0.9619,
@@ -163650,7 +163650,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.578Z",
+      "fetchedAt": "2026-08-02T16:37:13.288Z",
       "researchOnly": true
     },
     {
@@ -163667,7 +163667,7 @@
       "regularMarketDayHigh": 287.95,
       "regularMarketVolume": 780550,
       "marketCap": 82555515000,
-      "trailingPE": 25.697464,
+      "trailingPE": 25.991848,
       "forwardPE": 0,
       "dividendYield": 0.022443,
       "beta": 0.4754,
@@ -165388,7 +165388,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.662Z",
+      "fetchedAt": "2026-08-02T16:37:13.365Z",
       "researchOnly": true
     },
     {
@@ -165405,7 +165405,7 @@
       "regularMarketDayHigh": 258.47,
       "regularMarketVolume": 4552080,
       "marketCap": 617777505340,
-      "trailingPE": 29.677494,
+      "trailingPE": 29.738979,
       "forwardPE": 0,
       "dividendYield": 0.020441,
       "beta": -0.2478,
@@ -167126,7 +167126,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.683Z",
+      "fetchedAt": "2026-08-02T16:37:13.399Z",
       "researchOnly": true
     },
     {
@@ -167143,7 +167143,7 @@
       "regularMarketDayHigh": 354.47,
       "regularMarketVolume": 6583546,
       "marketCap": 935128178000,
-      "trailingPE": 15.032134,
+      "trailingPE": 15.072408,
       "forwardPE": 0,
       "dividendYield": 0.017056,
       "beta": 0.7176,
@@ -168864,7 +168864,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.657Z",
+      "fetchedAt": "2026-08-02T16:37:13.418Z",
       "researchOnly": true
     },
     {
@@ -170602,7 +170602,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.646Z",
+      "fetchedAt": "2026-08-02T16:37:13.388Z",
       "researchOnly": true
     },
     {
@@ -172340,7 +172340,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.664Z",
+      "fetchedAt": "2026-08-02T16:37:13.391Z",
       "researchOnly": true
     },
     {
@@ -172357,7 +172357,7 @@
       "regularMarketDayHigh": 190,
       "regularMarketVolume": 12944725,
       "marketCap": 238813233892,
-      "trailingPE": 49.270492,
+      "trailingPE": 49.95082,
       "forwardPE": 0,
       "dividendYield": 0.004376,
       "beta": 3.0177,
@@ -174078,7 +174078,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.669Z",
+      "fetchedAt": "2026-08-02T16:37:13.411Z",
       "researchOnly": true
     },
     {
@@ -174095,7 +174095,7 @@
       "regularMarketDayHigh": 110.26,
       "regularMarketVolume": 4169946,
       "marketCap": 36284400423,
-      "trailingPE": 21.313346,
+      "trailingPE": 21.143133,
       "forwardPE": 0,
       "dividendYield": 0.046473,
       "beta": 0.113,
@@ -175816,7 +175816,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.705Z",
+      "fetchedAt": "2026-08-02T16:37:13.409Z",
       "researchOnly": true
     },
     {
@@ -175833,7 +175833,7 @@
       "regularMarketDayHigh": 32.275,
       "regularMarketVolume": 6118751,
       "marketCap": 71658491224,
-      "trailingPE": 20.425806,
+      "trailingPE": 20.76129,
       "forwardPE": 0,
       "dividendYield": 0.02747,
       "beta": -0.2676,
@@ -177554,7 +177554,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.728Z",
+      "fetchedAt": "2026-08-02T16:37:13.391Z",
       "researchOnly": true
     },
     {
@@ -177571,7 +177571,7 @@
       "regularMarketDayHigh": 88,
       "regularMarketVolume": 10879681,
       "marketCap": 376860288194,
-      "trailingPE": 26.573574,
+      "trailingPE": 26.303303,
       "forwardPE": 0,
       "dividendYield": 0.023747,
       "beta": -0.2436,
@@ -179292,7 +179292,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.788Z",
+      "fetchedAt": "2026-08-02T16:37:13.488Z",
       "researchOnly": true
     },
     {
@@ -179309,7 +179309,7 @@
       "regularMarketDayHigh": 58.2,
       "regularMarketVolume": 4295518,
       "marketCap": 35374254062,
-      "trailingPE": 33.836257,
+      "trailingPE": 33.766082,
       "forwardPE": 0,
       "dividendYield": 0.024247,
       "beta": -0.8613,
@@ -181030,7 +181030,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.792Z",
+      "fetchedAt": "2026-08-02T16:37:13.450Z",
       "researchOnly": true
     },
     {
@@ -182768,7 +182768,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.703Z",
+      "fetchedAt": "2026-08-02T16:37:13.439Z",
       "researchOnly": true
     },
     {
@@ -182785,7 +182785,7 @@
       "regularMarketDayHigh": 1150.63,
       "regularMarketVolume": 2879738,
       "marketCap": 1024468196869,
-      "trailingPE": 41.02913,
+      "trailingPE": 40.811368,
       "forwardPE": 0,
       "dividendYield": 0.005623,
       "beta": 0.3791,
@@ -184506,7 +184506,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.795Z",
+      "fetchedAt": "2026-08-02T16:37:13.488Z",
       "researchOnly": true
     },
     {
@@ -184523,7 +184523,7 @@
       "regularMarketDayHigh": 583.885,
       "regularMarketVolume": 1418085,
       "marketCap": 134491003403,
-      "trailingPE": 21.169248,
+      "trailingPE": 21.487463,
       "forwardPE": 0,
       "dividendYield": 0.023424,
       "beta": -0.0791,
@@ -186244,7 +186244,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.821Z",
+      "fetchedAt": "2026-08-02T16:37:13.556Z",
       "researchOnly": true
     },
     {
@@ -186261,7 +186261,7 @@
       "regularMarketDayHigh": 210.07,
       "regularMarketVolume": 2559669,
       "marketCap": 116520530190,
-      "trailingPE": 17.758242,
+      "trailingPE": 17.566357,
       "forwardPE": 0,
       "dividendYield": 0.023339,
       "beta": 0.6485,
@@ -187982,7 +187982,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.794Z",
+      "fetchedAt": "2026-08-02T16:37:13.538Z",
       "researchOnly": true
     },
     {
@@ -187999,7 +187999,7 @@
       "regularMarketDayHigh": 318.4,
       "regularMarketVolume": 12544424,
       "marketCap": 366649479560,
-      "trailingPE": 51.6875,
+      "trailingPE": 50.871528,
       "forwardPE": 0,
       "dividendYield": 0.003549,
       "beta": 3.4991,
@@ -189720,7 +189720,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.771Z",
+      "fetchedAt": "2026-08-02T16:37:13.561Z",
       "researchOnly": true
     },
     {
@@ -191458,7 +191458,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.758Z",
+      "fetchedAt": "2026-08-02T16:37:13.485Z",
       "researchOnly": true
     },
     {
@@ -193196,7 +193196,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.766Z",
+      "fetchedAt": "2026-08-02T16:37:13.478Z",
       "researchOnly": true
     },
     {
@@ -194934,7 +194934,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.803Z",
+      "fetchedAt": "2026-08-02T16:37:13.532Z",
       "researchOnly": true
     },
     {
@@ -194951,7 +194951,7 @@
       "regularMarketDayHigh": 377.925,
       "regularMarketVolume": 1551701,
       "marketCap": 98311029313,
-      "trailingPE": 39.317277,
+      "trailingPE": 39.039791,
       "forwardPE": 0,
       "dividendYield": 0.007349,
       "beta": 0.781,
@@ -196672,7 +196672,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.832Z",
+      "fetchedAt": "2026-08-02T16:37:13.533Z",
       "researchOnly": true
     },
     {
@@ -196689,7 +196689,7 @@
       "regularMarketDayHigh": 271.07,
       "regularMarketVolume": 4411629,
       "marketCap": 192291305679,
-      "trailingPE": 22.130256,
+      "trailingPE": 22.311624,
       "forwardPE": 0,
       "dividendYield": 0.027158,
       "beta": -0.001,
@@ -198410,7 +198410,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.900Z",
+      "fetchedAt": "2026-08-02T16:37:13.580Z",
       "researchOnly": true
     },
     {
@@ -198427,7 +198427,7 @@
       "regularMarketDayHigh": 863.545,
       "regularMarketVolume": 616767,
       "marketCap": 100240794491,
-      "trailingPE": 22.551068,
+      "trailingPE": 22.308233,
       "forwardPE": 0,
       "dividendYield": 0.003831,
       "beta": -0.4412,
@@ -200148,7 +200148,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.878Z",
+      "fetchedAt": "2026-08-02T16:37:13.566Z",
       "researchOnly": true
     },
     {
@@ -200165,7 +200165,7 @@
       "regularMarketDayHigh": 481.59,
       "regularMarketVolume": 843934,
       "marketCap": 82846319125,
-      "trailingPE": 30.600254,
+      "trailingPE": 30.354061,
       "forwardPE": 0,
       "dividendYield": 0.008236,
       "beta": 0.4817,
@@ -201886,7 +201886,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.889Z",
+      "fetchedAt": "2026-08-02T16:37:13.558Z",
       "researchOnly": true
     },
     {
@@ -201903,7 +201903,7 @@
       "regularMarketDayHigh": 63.15,
       "regularMarketVolume": 8126973,
       "marketCap": 79526755031,
-      "trailingPE": 38.540731,
+      "trailingPE": 38.070275,
       "forwardPE": 0,
       "dividendYield": 0.032098,
       "beta": -0.3459,
@@ -203624,7 +203624,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.886Z",
+      "fetchedAt": "2026-08-02T16:37:13.603Z",
       "researchOnly": true
     },
     {
@@ -203641,7 +203641,7 @@
       "regularMarketDayHigh": 85.97,
       "regularMarketVolume": 9602593,
       "marketCap": 109303058774,
-      "trailingPE": 22.978552,
+      "trailingPE": 22.892761,
       "forwardPE": 0,
       "dividendYield": 0.033376,
       "beta": 0.1849,
@@ -205362,7 +205362,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.953Z",
+      "fetchedAt": "2026-08-02T16:37:13.668Z",
       "researchOnly": true
     },
     {
@@ -207100,7 +207100,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.887Z",
+      "fetchedAt": "2026-08-02T16:37:13.584Z",
       "researchOnly": true
     },
     {
@@ -207117,7 +207117,7 @@
       "regularMarketDayHigh": 97.475,
       "regularMarketVolume": 3743300,
       "marketCap": 61853577565,
-      "trailingPE": 18.775629,
+      "trailingPE": 18.59381,
       "forwardPE": 0,
       "dividendYield": 0.023895,
       "beta": 0.6739,
@@ -208838,7 +208838,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.932Z",
+      "fetchedAt": "2026-08-02T16:37:13.614Z",
       "researchOnly": true
     },
     {
@@ -210576,7 +210576,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.888Z",
+      "fetchedAt": "2026-08-02T16:37:13.642Z",
       "researchOnly": true
     },
     {
@@ -212314,7 +212314,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.957Z",
+      "fetchedAt": "2026-08-02T16:37:13.712Z",
       "researchOnly": true
     },
     {
@@ -212331,7 +212331,7 @@
       "regularMarketDayHigh": 97.4,
       "regularMarketVolume": 3880640,
       "marketCap": 94260421641,
-      "trailingPE": 47.173913,
+      "trailingPE": 46.560386,
       "forwardPE": 0,
       "dividendYield": 0,
       "beta": 0.5492,
@@ -214052,7 +214052,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.906Z",
+      "fetchedAt": "2026-08-02T16:37:13.661Z",
       "researchOnly": true
     },
     {
@@ -215790,7 +215790,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.960Z",
+      "fetchedAt": "2026-08-02T16:37:13.685Z",
       "researchOnly": true
     },
     {
@@ -215807,7 +215807,7 @@
       "regularMarketDayHigh": 131.04,
       "regularMarketVolume": 4649106,
       "marketCap": 321571138833,
-      "trailingPE": 36.560563,
+      "trailingPE": 36.676056,
       "forwardPE": 0,
       "dividendYield": 0.025806,
       "beta": 0.0517,
@@ -217528,7 +217528,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.987Z",
+      "fetchedAt": "2026-08-02T16:37:13.776Z",
       "researchOnly": true
     },
     {
@@ -217545,7 +217545,7 @@
       "regularMarketDayHigh": 213.36,
       "regularMarketVolume": 4719052,
       "marketCap": 330780240000,
-      "trailingPE": 16.96769,
+      "trailingPE": 16.996769,
       "forwardPE": 0,
       "dividendYield": 0.019722,
       "beta": 1.4027,
@@ -219266,7 +219266,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.038Z",
+      "fetchedAt": "2026-08-02T16:37:13.760Z",
       "researchOnly": true
     },
     {
@@ -219283,7 +219283,7 @@
       "regularMarketDayHigh": 466.84,
       "regularMarketVolume": 56468734,
       "marketCap": 3450799500577,
-      "trailingPE": 25.130919,
+      "trailingPE": 25.889694,
       "forwardPE": 0,
       "dividendYield": 0.007661,
       "beta": 1.0626,
@@ -221004,7 +221004,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.981Z",
+      "fetchedAt": "2026-08-02T16:37:13.695Z",
       "researchOnly": true
     },
     {
@@ -221021,7 +221021,7 @@
       "regularMarketDayHigh": 930.88,
       "regularMarketVolume": 52850199,
       "marketCap": 929524445067,
-      "trailingPE": 19.770796,
+      "trailingPE": 18.603752,
       "forwardPE": 0,
       "dividendYield": 0.000644,
       "beta": 3.5789,
@@ -222742,7 +222742,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.041Z",
+      "fetchedAt": "2026-08-02T16:37:13.719Z",
       "researchOnly": true
     },
     {
@@ -222759,7 +222759,7 @@
       "regularMarketDayHigh": 88.11,
       "regularMarketVolume": 10969870,
       "marketCap": 181313225926,
-      "trailingPE": 19.759551,
+      "trailingPE": 19.532584,
       "forwardPE": 0,
       "dividendYield": 0.027382,
       "beta": 0.0372,
@@ -224480,7 +224480,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.078Z",
+      "fetchedAt": "2026-08-02T16:37:13.781Z",
       "researchOnly": true
     },
     {
@@ -224497,7 +224497,7 @@
       "regularMarketDayHigh": 72.75,
       "regularMarketVolume": 33199303,
       "marketCap": 298596114165,
-      "trailingPE": 23.009434,
+      "trailingPE": 22.550314,
       "forwardPE": 0,
       "dividendYield": 0,
       "beta": 0.2553,
@@ -226218,7 +226218,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:12.964Z",
+      "fetchedAt": "2026-08-02T16:37:13.709Z",
       "researchOnly": true
     },
     {
@@ -226235,7 +226235,7 @@
       "regularMarketDayHigh": 42.075,
       "regularMarketVolume": 22584710,
       "marketCap": 61876730901,
-      "trailingPE": 20.138095,
+      "trailingPE": 19.861905,
       "forwardPE": 0,
       "dividendYield": 0.039079,
       "beta": 0.736,
@@ -227956,7 +227956,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.039Z",
+      "fetchedAt": "2026-08-02T16:37:13.731Z",
       "researchOnly": true
     },
     {
@@ -227973,7 +227973,7 @@
       "regularMarketDayHigh": 545.22,
       "regularMarketVolume": 521734,
       "marketCap": 77066350344,
-      "trailingPE": 17.000954,
+      "trailingPE": 17.243484,
       "forwardPE": 0,
       "dividendYield": 0.017328,
       "beta": -0.0513,
@@ -229694,7 +229694,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.111Z",
+      "fetchedAt": "2026-08-02T16:37:13.777Z",
       "researchOnly": true
     },
     {
@@ -231432,7 +231432,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.006Z",
+      "fetchedAt": "2026-08-02T16:37:13.757Z",
       "researchOnly": true
     },
     {
@@ -231449,9 +231449,9 @@
       "regularMarketDayHigh": 337.72,
       "regularMarketVolume": 613540,
       "marketCap": 75351616974,
-      "trailingPE": 28.492321,
+      "trailingPE": 28.624573,
       "forwardPE": 0,
-      "dividendYield": 0.016096,
+      "dividendYield": 0.012072,
       "beta": 0.1038,
       "fiftyTwoWeekLow": 0,
       "fiftyTwoWeekHigh": 0,
@@ -233170,7 +233170,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.121Z",
+      "fetchedAt": "2026-08-02T16:37:13.798Z",
       "researchOnly": true
     },
     {
@@ -233187,7 +233187,7 @@
       "regularMarketDayHigh": 201.97,
       "regularMarketVolume": 139261166,
       "marketCap": 4862365750000,
-      "trailingPE": 29.8683,
+      "trailingPE": 30.742726,
       "forwardPE": 0,
       "dividendYield": 0.001395,
       "beta": 1.9202,
@@ -234908,7 +234908,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.075Z",
+      "fetchedAt": "2026-08-02T16:37:13.782Z",
       "researchOnly": true
     },
     {
@@ -234925,9 +234925,9 @@
       "regularMarketDayHigh": 90.936,
       "regularMarketVolume": 5140463,
       "marketCap": 57213283290,
-      "trailingPE": 15.877005,
+      "trailingPE": 16.187166,
       "forwardPE": 0,
-      "dividendYield": 0.04625,
+      "dividendYield": 0.034908,
       "beta": -0.762,
       "fiftyTwoWeekLow": 0,
       "fiftyTwoWeekHigh": 0,
@@ -236646,7 +236646,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.123Z",
+      "fetchedAt": "2026-08-02T16:37:13.845Z",
       "researchOnly": true
     },
     {
@@ -236663,7 +236663,7 @@
       "regularMarketDayHigh": 86.7,
       "regularMarketVolume": 7374158,
       "marketCap": 31761436979,
-      "trailingPE": 61.573529,
+      "trailingPE": 60.007353,
       "forwardPE": 0,
       "dividendYield": 0,
       "beta": 2.8324,
@@ -238384,7 +238384,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.062Z",
+      "fetchedAt": "2026-08-02T16:37:13.797Z",
       "researchOnly": true
     },
     {
@@ -238401,7 +238401,7 @@
       "regularMarketDayHigh": 132.4,
       "regularMarketVolume": 28967333,
       "marketCap": 374086768770,
-      "trailingPE": 21.879931,
+      "trailingPE": 22.276158,
       "forwardPE": 0,
       "dividendYield": 0.0154,
       "beta": 2.0679,
@@ -240122,7 +240122,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.135Z",
+      "fetchedAt": "2026-08-02T16:37:13.884Z",
       "researchOnly": true
     },
     {
@@ -240139,7 +240139,7 @@
       "regularMarketDayHigh": 89.55,
       "regularMarketVolume": 5687642,
       "marketCap": 72924415391,
-      "trailingPE": 27.733333,
+      "trailingPE": 28.365079,
       "forwardPE": 0,
       "dividendYield": 0,
       "beta": 0.0636,
@@ -241860,7 +241860,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.092Z",
+      "fetchedAt": "2026-08-02T16:37:13.800Z",
       "researchOnly": true
     },
     {
@@ -241877,7 +241877,7 @@
       "regularMarketDayHigh": 57.1,
       "regularMarketVolume": 6690461,
       "marketCap": 56763802386,
-      "trailingPE": 75.608108,
+      "trailingPE": 77.121622,
       "forwardPE": 0,
       "dividendYield": 0.017522,
       "beta": -1.0288,
@@ -243598,7 +243598,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.147Z",
+      "fetchedAt": "2026-08-02T16:37:13.895Z",
       "researchOnly": true
     },
     {
@@ -245336,7 +245336,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.144Z",
+      "fetchedAt": "2026-08-02T16:37:13.886Z",
       "researchOnly": true
     },
     {
@@ -245353,7 +245353,7 @@
       "regularMarketDayHigh": 140.155,
       "regularMarketVolume": 9691523,
       "marketCap": 190484265834,
-      "trailingPE": 18.374836,
+      "trailingPE": 18.290957,
       "forwardPE": 0,
       "dividendYield": 0.041194,
       "beta": -0.1242,
@@ -247074,7 +247074,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.234Z",
+      "fetchedAt": "2026-08-02T16:37:13.916Z",
       "researchOnly": true
     },
     {
@@ -247091,7 +247091,7 @@
       "regularMarketDayHigh": 25.18,
       "regularMarketVolume": 33906387,
       "marketCap": 142543098666,
-      "trailingPE": 19.015267,
+      "trailingPE": 19.091603,
       "forwardPE": 0,
       "dividendYield": 0.068772,
       "beta": 0.1842,
@@ -248812,7 +248812,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.202Z",
+      "fetchedAt": "2026-08-02T16:37:13.906Z",
       "researchOnly": true
     },
     {
@@ -248829,7 +248829,7 @@
       "regularMarketDayHigh": 144.7,
       "regularMarketVolume": 6781320,
       "marketCap": 336459266331,
-      "trailingPE": 21.746224,
+      "trailingPE": 21.826284,
       "forwardPE": 0,
       "dividendYield": 0.029704,
       "beta": 0.0486,
@@ -250550,7 +250550,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.261Z",
+      "fetchedAt": "2026-08-02T16:37:14.000Z",
       "researchOnly": true
     },
     {
@@ -250567,7 +250567,7 @@
       "regularMarketDayHigh": 213.78,
       "regularMarketVolume": 1690083,
       "marketCap": 122919588000,
-      "trailingPE": 10.701455,
+      "trailingPE": 10.608128,
       "forwardPE": 0,
       "dividendYield": 0.065746,
       "beta": -0.6686,
@@ -252288,7 +252288,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.216Z",
+      "fetchedAt": "2026-08-02T16:37:13.949Z",
       "researchOnly": true
     },
     {
@@ -252305,7 +252305,7 @@
       "regularMarketDayHigh": 980.44,
       "regularMarketVolume": 343581,
       "marketCap": 123127141450,
-      "trailingPE": 35.527306,
+      "trailingPE": 36.034317,
       "forwardPE": 0,
       "dividendYield": 0.007578,
       "beta": 0.8389,
@@ -254026,7 +254026,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.206Z",
+      "fetchedAt": "2026-08-02T16:37:13.917Z",
       "researchOnly": true
     },
     {
@@ -255764,7 +255764,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.168Z",
+      "fetchedAt": "2026-08-02T16:37:13.897Z",
       "researchOnly": true
     },
     {
@@ -255781,7 +255781,7 @@
       "regularMarketDayHigh": 250.94,
       "regularMarketVolume": 1440389,
       "marketCap": 99698130000,
-      "trailingPE": 13.695485,
+      "trailingPE": 13.759361,
       "forwardPE": 0,
       "dividendYield": 0.028415,
       "beta": 0.5132,
@@ -257502,7 +257502,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.252Z",
+      "fetchedAt": "2026-08-02T16:37:13.928Z",
       "researchOnly": true
     },
     {
@@ -257519,7 +257519,7 @@
       "regularMarketDayHigh": 123.1,
       "regularMarketVolume": 1280513,
       "marketCap": 42401449062,
-      "trailingPE": 12.643666,
+      "trailingPE": 12.572606,
       "forwardPE": 0,
       "dividendYield": 0.045052,
       "beta": 0.6106,
@@ -259240,7 +259240,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.248Z",
+      "fetchedAt": "2026-08-02T16:37:13.904Z",
       "researchOnly": true
     },
     {
@@ -260978,7 +260978,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.239Z",
+      "fetchedAt": "2026-08-02T16:37:13.960Z",
       "researchOnly": true
     },
     {
@@ -262716,7 +262716,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.219Z",
+      "fetchedAt": "2026-08-02T16:37:13.959Z",
       "researchOnly": true
     },
     {
@@ -262733,7 +262733,7 @@
       "regularMarketDayHigh": 153.73,
       "regularMarketVolume": 13778152,
       "marketCap": 154990500000,
-      "trailingPE": 17.325714,
+      "trailingPE": 16.869714,
       "forwardPE": 0,
       "dividendYield": 0.024321,
       "beta": 2.0499,
@@ -264454,7 +264454,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.294Z",
+      "fetchedAt": "2026-08-02T16:37:14.003Z",
       "researchOnly": true
     },
     {
@@ -264471,7 +264471,7 @@
       "regularMarketDayHigh": 320.79,
       "regularMarketVolume": 1947792,
       "marketCap": 85129998337,
-      "trailingPE": 19.885114,
+      "trailingPE": 19.660284,
       "forwardPE": 0,
       "dividendYield": 0.015708,
       "beta": 1.9219,
@@ -266192,7 +266192,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.285Z",
+      "fetchedAt": "2026-08-02T16:37:14.035Z",
       "researchOnly": true
     },
     {
@@ -267930,7 +267930,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.298Z",
+      "fetchedAt": "2026-08-02T16:37:13.988Z",
       "researchOnly": true
     },
     {
@@ -267947,7 +267947,7 @@
       "regularMarketDayHigh": 211.775,
       "regularMarketVolume": 874887,
       "marketCap": 30603995896,
-      "trailingPE": 20.111861,
+      "trailingPE": 20.345227,
       "forwardPE": 0,
       "dividendYield": 0.011375,
       "beta": 0.3516,
@@ -269668,7 +269668,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.312Z",
+      "fetchedAt": "2026-08-02T16:37:14.016Z",
       "researchOnly": true
     },
     {
@@ -269685,7 +269685,7 @@
       "regularMarketDayHigh": 252.78,
       "regularMarketVolume": 1607544,
       "marketCap": 80538504751,
-      "trailingPE": 35.27514,
+      "trailingPE": 35.065642,
       "forwardPE": 0,
       "dividendYield": 0.006771,
       "beta": 0.5815,
@@ -271406,7 +271406,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.335Z",
+      "fetchedAt": "2026-08-02T16:37:14.037Z",
       "researchOnly": true
     },
     {
@@ -271423,7 +271423,7 @@
       "regularMarketDayHigh": 211.79,
       "regularMarketVolume": 1150079,
       "marketCap": 64778673517,
-      "trailingPE": 30.319943,
+      "trailingPE": 30.208034,
       "forwardPE": 0,
       "dividendYield": 0.011874,
       "beta": -0.5165,
@@ -273144,7 +273144,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.341Z",
+      "fetchedAt": "2026-08-02T16:37:14.034Z",
       "researchOnly": true
     },
     {
@@ -273161,7 +273161,7 @@
       "regularMarketDayHigh": 215.82,
       "regularMarketVolume": 3413380,
       "marketCap": 290064507751,
-      "trailingPE": 37.742958,
+      "trailingPE": 37.890845,
       "forwardPE": 0,
       "dividendYield": 0.012871,
       "beta": 0.2206,
@@ -274882,7 +274882,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.376Z",
+      "fetchedAt": "2026-08-02T16:37:14.087Z",
       "researchOnly": true
     },
     {
@@ -274899,7 +274899,7 @@
       "regularMarketDayHigh": 108.13,
       "regularMarketVolume": 12388715,
       "marketCap": 119985000000,
-      "trailingPE": 61.184971,
+      "trailingPE": 60.83815,
       "forwardPE": 0,
       "dividendYield": 0.023468,
       "beta": 0.6002,
@@ -276620,7 +276620,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.374Z",
+      "fetchedAt": "2026-08-02T16:37:14.051Z",
       "researchOnly": true
     },
     {
@@ -276637,7 +276637,7 @@
       "regularMarketDayHigh": 105.685,
       "regularMarketVolume": 5422027,
       "marketCap": 183026620756,
-      "trailingPE": 19.003643,
+      "trailingPE": 19.169399,
       "forwardPE": 0,
       "dividendYield": 0.011212,
       "beta": 0.3216,
@@ -278358,7 +278358,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.377Z",
+      "fetchedAt": "2026-08-02T16:37:14.112Z",
       "researchOnly": true
     },
     {
@@ -280096,7 +280096,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.317Z",
+      "fetchedAt": "2026-08-02T16:37:14.049Z",
       "researchOnly": true
     },
     {
@@ -280113,7 +280113,7 @@
       "regularMarketDayHigh": 49.95,
       "regularMarketVolume": 10221832,
       "marketCap": 73598662825,
-      "trailingPE": 23.858537,
+      "trailingPE": 24.190244,
       "forwardPE": 0,
       "dividendYield": 0.023392,
       "beta": 0.7171,
@@ -281834,7 +281834,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.432Z",
+      "fetchedAt": "2026-08-02T16:37:14.096Z",
       "researchOnly": true
     },
     {
@@ -283572,7 +283572,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.394Z",
+      "fetchedAt": "2026-08-02T16:37:14.085Z",
       "researchOnly": true
     },
     {
@@ -285310,7 +285310,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.483Z",
+      "fetchedAt": "2026-08-02T16:37:14.157Z",
       "researchOnly": true
     },
     {
@@ -285327,7 +285327,7 @@
       "regularMarketDayHigh": 417.09,
       "regularMarketVolume": 1652060,
       "marketCap": 121436964000,
-      "trailingPE": 25.258673,
+      "trailingPE": 25.07182,
       "forwardPE": 0,
       "dividendYield": 0.008865,
       "beta": 0.3103,
@@ -287048,7 +287048,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.473Z",
+      "fetchedAt": "2026-08-02T16:37:14.162Z",
       "researchOnly": true
     },
     {
@@ -287065,7 +287065,7 @@
       "regularMarketDayHigh": 130.42,
       "regularMarketVolume": 1299499,
       "marketCap": 22240475459,
-      "trailingPE": 12.417143,
+      "trailingPE": 12.402857,
       "forwardPE": 0,
       "dividendYield": 0.031483,
       "beta": -0.0737,
@@ -288786,7 +288786,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.432Z",
+      "fetchedAt": "2026-08-02T16:37:14.148Z",
       "researchOnly": true
     },
     {
@@ -290524,7 +290524,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.467Z",
+      "fetchedAt": "2026-08-02T16:37:14.160Z",
       "researchOnly": true
     },
     {
@@ -292262,7 +292262,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.482Z",
+      "fetchedAt": "2026-08-02T16:37:14.208Z",
       "researchOnly": true
     },
     {
@@ -294000,7 +294000,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.506Z",
+      "fetchedAt": "2026-08-02T16:37:14.204Z",
       "researchOnly": true
     },
     {
@@ -294017,7 +294017,7 @@
       "regularMarketDayHigh": 52.43,
       "regularMarketVolume": 4897865,
       "marketCap": 63329091840,
-      "trailingPE": 11.956322,
+      "trailingPE": 11.917241,
       "forwardPE": 0,
       "dividendYield": 0.040123,
       "beta": 0.6162,
@@ -295738,7 +295738,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.492Z",
+      "fetchedAt": "2026-08-02T16:37:14.241Z",
       "researchOnly": true
     },
     {
@@ -295755,7 +295755,7 @@
       "regularMarketDayHigh": 145.14,
       "regularMarketVolume": 2220101,
       "marketCap": 65626073772,
-      "trailingPE": 19.089828,
+      "trailingPE": 19.087186,
       "forwardPE": 0,
       "dividendYield": 0.031559,
       "beta": 0.2544,
@@ -297476,7 +297476,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.543Z",
+      "fetchedAt": "2026-08-02T16:37:14.233Z",
       "researchOnly": true
     },
     {
@@ -297493,7 +297493,7 @@
       "regularMarketDayHigh": 158.985,
       "regularMarketVolume": 3764474,
       "marketCap": 173814197533,
-      "trailingPE": 30.984436,
+      "trailingPE": 30.610895,
       "forwardPE": 0,
       "dividendYield": 0.011154,
       "beta": 0.0843,
@@ -299214,7 +299214,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.512Z",
+      "fetchedAt": "2026-08-02T16:37:14.242Z",
       "researchOnly": true
     },
     {
@@ -300952,7 +300952,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.541Z",
+      "fetchedAt": "2026-08-02T16:37:14.237Z",
       "researchOnly": true
     },
     {
@@ -302690,7 +302690,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.510Z",
+      "fetchedAt": "2026-08-02T16:37:14.236Z",
       "researchOnly": true
     },
     {
@@ -304428,7 +304428,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.521Z",
+      "fetchedAt": "2026-08-02T16:37:14.231Z",
       "researchOnly": true
     },
     {
@@ -306166,7 +306166,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.516Z",
+      "fetchedAt": "2026-08-02T16:37:14.248Z",
       "researchOnly": true
     },
     {
@@ -306183,7 +306183,7 @@
       "regularMarketDayHigh": 285.11,
       "regularMarketVolume": 8797555,
       "marketCap": 251818916937,
-      "trailingPE": 42.364742,
+      "trailingPE": 41.905775,
       "forwardPE": 0,
       "dividendYield": 0.020599,
       "beta": 1.5682,
@@ -307904,7 +307904,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.636Z",
+      "fetchedAt": "2026-08-02T16:37:14.318Z",
       "researchOnly": true
     },
     {
@@ -309642,7 +309642,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.551Z",
+      "fetchedAt": "2026-08-02T16:37:14.252Z",
       "researchOnly": true
     },
     {
@@ -309659,7 +309659,7 @@
       "regularMarketDayHigh": 422.65,
       "regularMarketVolume": 2755262,
       "marketCap": 376335041017,
-      "trailingPE": 31.737199,
+      "trailingPE": 31.204819,
       "forwardPE": 0,
       "dividendYield": 0.021597,
       "beta": 0.3627,
@@ -311380,7 +311380,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.639Z",
+      "fetchedAt": "2026-08-02T16:37:14.302Z",
       "researchOnly": true
     },
     {
@@ -311397,7 +311397,7 @@
       "regularMarketDayHigh": 293.94,
       "regularMarketVolume": 2450205,
       "marketCap": 173547275230,
-      "trailingPE": 23.438057,
+      "trailingPE": 23.654251,
       "forwardPE": 0,
       "dividendYield": 0.018896,
       "beta": 0.091,
@@ -313118,7 +313118,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.658Z",
+      "fetchedAt": "2026-08-02T16:37:14.364Z",
       "researchOnly": true
     },
     {
@@ -313135,7 +313135,7 @@
       "regularMarketDayHigh": 105.99,
       "regularMarketVolume": 4535395,
       "marketCap": 88587654396,
-      "trailingPE": 19.566915,
+      "trailingPE": 19.371747,
       "forwardPE": 0,
       "dividendYield": 0.062944,
       "beta": 0.8565,
@@ -314856,7 +314856,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.673Z",
+      "fetchedAt": "2026-08-02T16:37:14.326Z",
       "researchOnly": true
     },
     {
@@ -314873,7 +314873,7 @@
       "regularMarketDayHigh": 63.3,
       "regularMarketVolume": 4421935,
       "marketCap": 98152676181,
-      "trailingPE": 12.55489,
+      "trailingPE": 12.576846,
       "forwardPE": 0,
       "dividendYield": 0.033011,
       "beta": 0.6138,
@@ -316594,7 +316594,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.676Z",
+      "fetchedAt": "2026-08-02T16:37:14.387Z",
       "researchOnly": true
     },
     {
@@ -318332,7 +318332,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.649Z",
+      "fetchedAt": "2026-08-02T16:37:14.363Z",
       "researchOnly": true
     },
     {
@@ -320070,7 +320070,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.681Z",
+      "fetchedAt": "2026-08-02T16:37:14.407Z",
       "researchOnly": true
     },
     {
@@ -320087,7 +320087,7 @@
       "regularMarketDayHigh": 480.67,
       "regularMarketVolume": 949700,
       "marketCap": 121090564450,
-      "trailingPE": 28.587537,
+      "trailingPE": 28.31454,
       "forwardPE": 0,
       "dividendYield": 0,
       "beta": 0.5204,
@@ -321808,7 +321808,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.600Z",
+      "fetchedAt": "2026-08-02T16:37:14.318Z",
       "researchOnly": true
     },
     {
@@ -323546,7 +323546,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.676Z",
+      "fetchedAt": "2026-08-02T16:37:14.392Z",
       "researchOnly": true
     },
     {
@@ -325284,7 +325284,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.647Z",
+      "fetchedAt": "2026-08-02T16:37:14.349Z",
       "researchOnly": true
     },
     {
@@ -327022,7 +327022,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.657Z",
+      "fetchedAt": "2026-08-02T16:37:14.328Z",
       "researchOnly": true
     },
     {
@@ -327039,7 +327039,7 @@
       "regularMarketDayHigh": 86.74,
       "regularMarketVolume": 11315238,
       "marketCap": 261424742597,
-      "trailingPE": 12.417151,
+      "trailingPE": 12.565407,
       "forwardPE": 0,
       "dividendYield": 0.020821,
       "beta": 0.641,
@@ -328760,7 +328760,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.682Z",
+      "fetchedAt": "2026-08-02T16:37:14.411Z",
       "researchOnly": true
     },
     {
@@ -328777,7 +328777,7 @@
       "regularMarketDayHigh": 228.45,
       "regularMarketVolume": 1581266,
       "marketCap": 90555474935,
-      "trailingPE": 59.599737,
+      "trailingPE": 59.65767,
       "forwardPE": 0,
       "dividendYield": 0.015626,
       "beta": -0.4714,
@@ -330498,7 +330498,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.702Z",
+      "fetchedAt": "2026-08-02T16:37:14.392Z",
       "researchOnly": true
     },
     {
@@ -330515,7 +330515,7 @@
       "regularMarketDayHigh": 71.885,
       "regularMarketVolume": 7246655,
       "marketCap": 87493295878,
-      "trailingPE": 31.100877,
+      "trailingPE": 31.377193,
       "forwardPE": 0,
       "dividendYield": 0.028655,
       "beta": -0.0826,
@@ -332236,7 +332236,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.783Z",
+      "fetchedAt": "2026-08-02T16:37:14.448Z",
       "researchOnly": true
     },
     {
@@ -332253,7 +332253,7 @@
       "regularMarketDayHigh": 111.9,
       "regularMarketVolume": 22765331,
       "marketCap": 884938402036,
-      "trailingPE": 39.119718,
+      "trailingPE": 39.15493,
       "forwardPE": 0,
       "dividendYield": 0.008687,
       "beta": -0.074,
@@ -333974,7 +333974,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.772Z",
+      "fetchedAt": "2026-08-02T16:37:14.466Z",
       "researchOnly": true
     },
     {
@@ -333991,7 +333991,7 @@
       "regularMarketDayHigh": 156.16,
       "regularMarketVolume": 11761157,
       "marketCap": 644290586861,
-      "trailingPE": 26.425926,
+      "trailingPE": 26.16835,
       "forwardPE": 0,
       "dividendYield": 0.026248,
       "beta": -0.7921,
@@ -335712,7 +335712,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.795Z",
+      "fetchedAt": "2026-08-02T16:37:14.495Z",
       "researchOnly": true
     },
     {
@@ -337450,7 +337450,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.749Z",
+      "fetchedAt": "2026-08-02T16:37:14.448Z",
       "researchOnly": true
     },
     {
@@ -339188,7 +339188,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-08-01T16:37:13.752Z",
+      "fetchedAt": "2026-08-02T16:37:14.427Z",
       "researchOnly": true
     }
   ]
