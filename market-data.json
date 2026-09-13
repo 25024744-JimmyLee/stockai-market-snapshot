@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-12T16:37:18.547Z",
-  "lastRefreshAt": "2026-09-12T16:37:18.547Z",
+  "generatedAt": "2026-09-13T16:37:18.898Z",
+  "lastRefreshAt": "2026-09-13T16:37:18.898Z",
   "source": "vercel-market-data-refresh",
   "provider": "yahoo-finance-chart-quote-or-chart",
   "storage": "github-public-repository",
@@ -1964,7 +1964,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:13.833Z",
+      "fetchedAt": "2026-09-13T16:37:14.150Z",
       "researchOnly": true
     },
     {
@@ -3702,7 +3702,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:13.569Z",
+      "fetchedAt": "2026-09-13T16:37:13.776Z",
       "researchOnly": true
     },
     {
@@ -5440,7 +5440,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:13.459Z",
+      "fetchedAt": "2026-09-13T16:37:13.764Z",
       "researchOnly": true
     },
     {
@@ -7178,7 +7178,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:13.594Z",
+      "fetchedAt": "2026-09-13T16:37:13.906Z",
       "researchOnly": true
     },
     {
@@ -8916,7 +8916,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:13.476Z",
+      "fetchedAt": "2026-09-13T16:37:13.782Z",
       "researchOnly": true
     },
     {
@@ -10654,7 +10654,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:13.461Z",
+      "fetchedAt": "2026-09-13T16:37:13.746Z",
       "researchOnly": true
     },
     {
@@ -12392,7 +12392,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:13.930Z",
+      "fetchedAt": "2026-09-13T16:37:14.194Z",
       "researchOnly": true
     },
     {
@@ -14130,7 +14130,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:13.943Z",
+      "fetchedAt": "2026-09-13T16:37:13.834Z",
       "researchOnly": true
     },
     {
@@ -14149,7 +14149,7 @@
       "marketCap": 106569701827,
       "trailingPE": 24.521024,
       "forwardPE": 0,
-      "dividendYield": 0.031089,
+      "dividendYield": 0.025349,
       "beta": -0.2746,
       "fiftyTwoWeekLow": 0,
       "fiftyTwoWeekHigh": 0,
@@ -15868,7 +15868,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:13.542Z",
+      "fetchedAt": "2026-09-13T16:37:13.837Z",
       "researchOnly": true
     },
     {
@@ -17606,7 +17606,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:13.941Z",
+      "fetchedAt": "2026-09-13T16:37:13.901Z",
       "researchOnly": true
     },
     {
@@ -19344,7 +19344,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:13.524Z",
+      "fetchedAt": "2026-09-13T16:37:14.227Z",
       "researchOnly": true
     },
     {
@@ -21082,7 +21082,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:13.492Z",
+      "fetchedAt": "2026-09-13T16:37:13.811Z",
       "researchOnly": true
     },
     {
@@ -22820,7 +22820,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:13.703Z",
+      "fetchedAt": "2026-09-13T16:37:13.995Z",
       "researchOnly": true
     },
     {
@@ -24558,7 +24558,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:13.750Z",
+      "fetchedAt": "2026-09-13T16:37:14.382Z",
       "researchOnly": true
     },
     {
@@ -26296,7 +26296,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:13.729Z",
+      "fetchedAt": "2026-09-13T16:37:14.022Z",
       "researchOnly": true
     },
     {
@@ -28034,7 +28034,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:13.762Z",
+      "fetchedAt": "2026-09-13T16:37:14.044Z",
       "researchOnly": true
     },
     {
@@ -29772,7 +29772,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:13.822Z",
+      "fetchedAt": "2026-09-13T16:37:14.131Z",
       "researchOnly": true
     },
     {
@@ -31510,7 +31510,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:13.825Z",
+      "fetchedAt": "2026-09-13T16:37:14.108Z",
       "researchOnly": true
     },
     {
@@ -33248,7 +33248,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:13.831Z",
+      "fetchedAt": "2026-09-13T16:37:14.110Z",
       "researchOnly": true
     },
     {
@@ -34986,7 +34986,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:13.861Z",
+      "fetchedAt": "2026-09-13T16:37:14.171Z",
       "researchOnly": true
     },
     {
@@ -36724,7 +36724,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:14.015Z",
+      "fetchedAt": "2026-09-13T16:37:14.575Z",
       "researchOnly": true
     },
     {
@@ -38462,7 +38462,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:13.987Z",
+      "fetchedAt": "2026-09-13T16:37:14.264Z",
       "researchOnly": true
     },
     {
@@ -40200,7 +40200,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:14.078Z",
+      "fetchedAt": "2026-09-13T16:37:14.345Z",
       "researchOnly": true
     },
     {
@@ -41938,7 +41938,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:14.038Z",
+      "fetchedAt": "2026-09-13T16:37:14.324Z",
       "researchOnly": true
     },
     {
@@ -43728,7 +43728,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:14.479Z",
+      "fetchedAt": "2026-09-13T16:37:14.713Z",
       "researchOnly": true
     },
     {
@@ -45466,7 +45466,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:14.125Z",
+      "fetchedAt": "2026-09-13T16:37:14.447Z",
       "researchOnly": true
     },
     {
@@ -47204,7 +47204,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:14.144Z",
+      "fetchedAt": "2026-09-13T16:37:14.449Z",
       "researchOnly": true
     },
     {
@@ -48942,7 +48942,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:14.170Z",
+      "fetchedAt": "2026-09-13T16:37:14.462Z",
       "researchOnly": true
     },
     {
@@ -50680,7 +50680,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:14.111Z",
+      "fetchedAt": "2026-09-13T16:37:14.448Z",
       "researchOnly": true
     },
     {
@@ -52418,7 +52418,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:14.193Z",
+      "fetchedAt": "2026-09-13T16:37:14.463Z",
       "researchOnly": true
     },
     {
@@ -54156,7 +54156,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:14.226Z",
+      "fetchedAt": "2026-09-13T16:37:14.506Z",
       "researchOnly": true
     },
     {
@@ -55894,7 +55894,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:14.261Z",
+      "fetchedAt": "2026-09-13T16:37:14.597Z",
       "researchOnly": true
     },
     {
@@ -57632,7 +57632,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:14.324Z",
+      "fetchedAt": "2026-09-13T16:37:14.667Z",
       "researchOnly": true
     },
     {
@@ -59370,7 +59370,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:14.312Z",
+      "fetchedAt": "2026-09-13T16:37:14.652Z",
       "researchOnly": true
     },
     {
@@ -61108,7 +61108,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:14.330Z",
+      "fetchedAt": "2026-09-13T16:37:15.058Z",
       "researchOnly": true
     },
     {
@@ -62846,7 +62846,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:14.328Z",
+      "fetchedAt": "2026-09-13T16:37:14.716Z",
       "researchOnly": true
     },
     {
@@ -64584,7 +64584,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:14.422Z",
+      "fetchedAt": "2026-09-13T16:37:14.771Z",
       "researchOnly": true
     },
     {
@@ -66322,7 +66322,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:14.430Z",
+      "fetchedAt": "2026-09-13T16:37:14.764Z",
       "researchOnly": true
     },
     {
@@ -68060,7 +68060,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:14.467Z",
+      "fetchedAt": "2026-09-13T16:37:14.774Z",
       "researchOnly": true
     },
     {
@@ -69798,7 +69798,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:14.468Z",
+      "fetchedAt": "2026-09-13T16:37:14.763Z",
       "researchOnly": true
     },
     {
@@ -71536,7 +71536,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:14.463Z",
+      "fetchedAt": "2026-09-13T16:37:14.793Z",
       "researchOnly": true
     },
     {
@@ -73274,7 +73274,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:14.497Z",
+      "fetchedAt": "2026-09-13T16:37:14.835Z",
       "researchOnly": true
     },
     {
@@ -75012,7 +75012,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:14.568Z",
+      "fetchedAt": "2026-09-13T16:37:14.877Z",
       "researchOnly": true
     },
     {
@@ -76750,7 +76750,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:15.011Z",
+      "fetchedAt": "2026-09-13T16:37:14.956Z",
       "researchOnly": true
     },
     {
@@ -78488,7 +78488,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:14.628Z",
+      "fetchedAt": "2026-09-13T16:37:15.300Z",
       "researchOnly": true
     },
     {
@@ -80226,7 +80226,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:14.595Z",
+      "fetchedAt": "2026-09-13T16:37:14.989Z",
       "researchOnly": true
     },
     {
@@ -81964,7 +81964,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:14.603Z",
+      "fetchedAt": "2026-09-13T16:37:15.369Z",
       "researchOnly": true
     },
     {
@@ -83702,7 +83702,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:14.665Z",
+      "fetchedAt": "2026-09-13T16:37:15.009Z",
       "researchOnly": true
     },
     {
@@ -85440,7 +85440,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:14.677Z",
+      "fetchedAt": "2026-09-13T16:37:15.013Z",
       "researchOnly": true
     },
     {
@@ -87178,7 +87178,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:14.738Z",
+      "fetchedAt": "2026-09-13T16:37:15.040Z",
       "researchOnly": true
     },
     {
@@ -88916,7 +88916,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:14.779Z",
+      "fetchedAt": "2026-09-13T16:37:15.062Z",
       "researchOnly": true
     },
     {
@@ -90654,7 +90654,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:14.780Z",
+      "fetchedAt": "2026-09-13T16:37:15.115Z",
       "researchOnly": true
     },
     {
@@ -92392,7 +92392,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:14.802Z",
+      "fetchedAt": "2026-09-13T16:37:15.147Z",
       "researchOnly": true
     },
     {
@@ -94130,7 +94130,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:14.810Z",
+      "fetchedAt": "2026-09-13T16:37:15.192Z",
       "researchOnly": true
     },
     {
@@ -95868,7 +95868,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:14.815Z",
+      "fetchedAt": "2026-09-13T16:37:15.213Z",
       "researchOnly": true
     },
     {
@@ -97606,7 +97606,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:14.857Z",
+      "fetchedAt": "2026-09-13T16:37:15.254Z",
       "researchOnly": true
     },
     {
@@ -99344,7 +99344,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:14.902Z",
+      "fetchedAt": "2026-09-13T16:37:15.303Z",
       "researchOnly": true
     },
     {
@@ -101082,7 +101082,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:14.959Z",
+      "fetchedAt": "2026-09-13T16:37:15.336Z",
       "researchOnly": true
     },
     {
@@ -102820,7 +102820,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:14.953Z",
+      "fetchedAt": "2026-09-13T16:37:15.666Z",
       "researchOnly": true
     },
     {
@@ -104558,7 +104558,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:14.925Z",
+      "fetchedAt": "2026-09-13T16:37:15.317Z",
       "researchOnly": true
     },
     {
@@ -104684,7 +104684,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:14.993Z",
+      "fetchedAt": "2026-09-13T16:37:15.336Z",
       "researchOnly": true
     },
     {
@@ -106422,7 +106422,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:15.040Z",
+      "fetchedAt": "2026-09-13T16:37:15.389Z",
       "researchOnly": true
     },
     {
@@ -108160,7 +108160,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:15.136Z",
+      "fetchedAt": "2026-09-13T16:37:15.419Z",
       "researchOnly": true
     },
     {
@@ -109898,7 +109898,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:15.153Z",
+      "fetchedAt": "2026-09-13T16:37:15.508Z",
       "researchOnly": true
     },
     {
@@ -111636,7 +111636,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:15.108Z",
+      "fetchedAt": "2026-09-13T16:37:15.518Z",
       "researchOnly": true
     },
     {
@@ -113374,7 +113374,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:15.150Z",
+      "fetchedAt": "2026-09-13T16:37:15.564Z",
       "researchOnly": true
     },
     {
@@ -115112,7 +115112,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:15.513Z",
+      "fetchedAt": "2026-09-13T16:37:15.549Z",
       "researchOnly": true
     },
     {
@@ -116850,7 +116850,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:15.254Z",
+      "fetchedAt": "2026-09-13T16:37:15.678Z",
       "researchOnly": true
     },
     {
@@ -118588,7 +118588,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:15.177Z",
+      "fetchedAt": "2026-09-13T16:37:15.578Z",
       "researchOnly": true
     },
     {
@@ -120326,7 +120326,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:15.251Z",
+      "fetchedAt": "2026-09-13T16:37:15.645Z",
       "researchOnly": true
     },
     {
@@ -122064,7 +122064,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:15.247Z",
+      "fetchedAt": "2026-09-13T16:37:15.640Z",
       "researchOnly": true
     },
     {
@@ -123802,7 +123802,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:15.636Z",
+      "fetchedAt": "2026-09-13T16:37:15.677Z",
       "researchOnly": true
     },
     {
@@ -125540,7 +125540,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:15.302Z",
+      "fetchedAt": "2026-09-13T16:37:15.720Z",
       "researchOnly": true
     },
     {
@@ -127278,7 +127278,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:15.309Z",
+      "fetchedAt": "2026-09-13T16:37:15.691Z",
       "researchOnly": true
     },
     {
@@ -129016,7 +129016,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:15.370Z",
+      "fetchedAt": "2026-09-13T16:37:15.782Z",
       "researchOnly": true
     },
     {
@@ -130754,7 +130754,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:15.439Z",
+      "fetchedAt": "2026-09-13T16:37:15.822Z",
       "researchOnly": true
     },
     {
@@ -132492,7 +132492,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:15.416Z",
+      "fetchedAt": "2026-09-13T16:37:15.825Z",
       "researchOnly": true
     },
     {
@@ -134230,7 +134230,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:15.411Z",
+      "fetchedAt": "2026-09-13T16:37:15.824Z",
       "researchOnly": true
     },
     {
@@ -135968,7 +135968,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:15.423Z",
+      "fetchedAt": "2026-09-13T16:37:15.834Z",
       "researchOnly": true
     },
     {
@@ -137706,7 +137706,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:15.534Z",
+      "fetchedAt": "2026-09-13T16:37:15.929Z",
       "researchOnly": true
     },
     {
@@ -139444,7 +139444,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:15.545Z",
+      "fetchedAt": "2026-09-13T16:37:15.956Z",
       "researchOnly": true
     },
     {
@@ -141182,7 +141182,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:15.542Z",
+      "fetchedAt": "2026-09-13T16:37:15.951Z",
       "researchOnly": true
     },
     {
@@ -142920,7 +142920,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:15.594Z",
+      "fetchedAt": "2026-09-13T16:37:15.970Z",
       "researchOnly": true
     },
     {
@@ -144658,7 +144658,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:15.577Z",
+      "fetchedAt": "2026-09-13T16:37:15.969Z",
       "researchOnly": true
     },
     {
@@ -146396,7 +146396,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:15.698Z",
+      "fetchedAt": "2026-09-13T16:37:15.994Z",
       "researchOnly": true
     },
     {
@@ -148134,7 +148134,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:15.782Z",
+      "fetchedAt": "2026-09-13T16:37:16.060Z",
       "researchOnly": true
     },
     {
@@ -149872,7 +149872,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:15.731Z",
+      "fetchedAt": "2026-09-13T16:37:16.071Z",
       "researchOnly": true
     },
     {
@@ -151610,7 +151610,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:15.729Z",
+      "fetchedAt": "2026-09-13T16:37:16.111Z",
       "researchOnly": true
     },
     {
@@ -153348,7 +153348,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:15.753Z",
+      "fetchedAt": "2026-09-13T16:37:16.475Z",
       "researchOnly": true
     },
     {
@@ -155086,7 +155086,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:15.792Z",
+      "fetchedAt": "2026-09-13T16:37:16.084Z",
       "researchOnly": true
     },
     {
@@ -156824,7 +156824,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:15.808Z",
+      "fetchedAt": "2026-09-13T16:37:16.091Z",
       "researchOnly": true
     },
     {
@@ -156847,11 +156847,11 @@
       "beta": -0.0114,
       "fiftyTwoWeekLow": 0,
       "fiftyTwoWeekHigh": 0,
-      "sector": "Technology",
-      "industry": "Software—Application",
+      "sector": "general",
+      "industry": "",
       "quarterlyRevenueGrowth": 0.136518,
       "metadataSource": {
-        "sector": "yahoo-search",
+        "sector": "unavailable",
         "trailingPE": "yahoo-fundamentals-timeseries",
         "marketCap": "yahoo-fundamentals-timeseries",
         "dividendYield": "yahoo-chart-dividend-events",
@@ -158562,7 +158562,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:15.819Z",
+      "fetchedAt": "2026-09-13T16:37:16.193Z",
       "researchOnly": true
     },
     {
@@ -160300,7 +160300,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:15.802Z",
+      "fetchedAt": "2026-09-13T16:37:16.219Z",
       "researchOnly": true
     },
     {
@@ -162038,7 +162038,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:15.829Z",
+      "fetchedAt": "2026-09-13T16:37:16.548Z",
       "researchOnly": true
     },
     {
@@ -163776,7 +163776,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:15.881Z",
+      "fetchedAt": "2026-09-13T16:37:16.301Z",
       "researchOnly": true
     },
     {
@@ -165514,7 +165514,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:15.966Z",
+      "fetchedAt": "2026-09-13T16:37:16.304Z",
       "researchOnly": true
     },
     {
@@ -167252,7 +167252,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:16.015Z",
+      "fetchedAt": "2026-09-13T16:37:16.292Z",
       "researchOnly": true
     },
     {
@@ -168990,7 +168990,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:16.018Z",
+      "fetchedAt": "2026-09-13T16:37:16.325Z",
       "researchOnly": true
     },
     {
@@ -170728,7 +170728,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:16.022Z",
+      "fetchedAt": "2026-09-13T16:37:16.358Z",
       "researchOnly": true
     },
     {
@@ -172466,7 +172466,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:16.038Z",
+      "fetchedAt": "2026-09-13T16:37:16.362Z",
       "researchOnly": true
     },
     {
@@ -174204,7 +174204,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:16.073Z",
+      "fetchedAt": "2026-09-13T16:37:16.395Z",
       "researchOnly": true
     },
     {
@@ -175942,7 +175942,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:16.060Z",
+      "fetchedAt": "2026-09-13T16:37:16.399Z",
       "researchOnly": true
     },
     {
@@ -177680,7 +177680,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:16.132Z",
+      "fetchedAt": "2026-09-13T16:37:16.491Z",
       "researchOnly": true
     },
     {
@@ -179418,7 +179418,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:16.124Z",
+      "fetchedAt": "2026-09-13T16:37:16.530Z",
       "researchOnly": true
     },
     {
@@ -181156,7 +181156,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:16.104Z",
+      "fetchedAt": "2026-09-13T16:37:16.582Z",
       "researchOnly": true
     },
     {
@@ -182894,7 +182894,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:16.127Z",
+      "fetchedAt": "2026-09-13T16:37:16.603Z",
       "researchOnly": true
     },
     {
@@ -184632,7 +184632,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:16.184Z",
+      "fetchedAt": "2026-09-13T16:37:16.637Z",
       "researchOnly": true
     },
     {
@@ -184655,11 +184655,11 @@
       "beta": 0.8238,
       "fiftyTwoWeekLow": 0,
       "fiftyTwoWeekHigh": 0,
-      "sector": "general",
-      "industry": "",
+      "sector": "Consumer Cyclical",
+      "industry": "Home Improvement Retail",
       "quarterlyRevenueGrowth": 0.083351,
       "metadataSource": {
-        "sector": "unavailable",
+        "sector": "yahoo-search",
         "trailingPE": "yahoo-fundamentals-timeseries",
         "marketCap": "yahoo-fundamentals-timeseries",
         "dividendYield": "yahoo-chart-dividend-events",
@@ -186370,7 +186370,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:16.253Z",
+      "fetchedAt": "2026-09-13T16:37:16.607Z",
       "researchOnly": true
     },
     {
@@ -188108,7 +188108,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:16.283Z",
+      "fetchedAt": "2026-09-13T16:37:16.627Z",
       "researchOnly": true
     },
     {
@@ -189846,7 +189846,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:16.279Z",
+      "fetchedAt": "2026-09-13T16:37:16.625Z",
       "researchOnly": true
     },
     {
@@ -191584,7 +191584,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:16.273Z",
+      "fetchedAt": "2026-09-13T16:37:16.650Z",
       "researchOnly": true
     },
     {
@@ -193322,7 +193322,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:16.335Z",
+      "fetchedAt": "2026-09-13T16:37:16.668Z",
       "researchOnly": true
     },
     {
@@ -195060,7 +195060,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:16.364Z",
+      "fetchedAt": "2026-09-13T16:37:16.763Z",
       "researchOnly": true
     },
     {
@@ -196798,7 +196798,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:16.394Z",
+      "fetchedAt": "2026-09-13T16:37:16.815Z",
       "researchOnly": true
     },
     {
@@ -198536,7 +198536,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:16.387Z",
+      "fetchedAt": "2026-09-13T16:37:16.907Z",
       "researchOnly": true
     },
     {
@@ -200274,7 +200274,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:16.406Z",
+      "fetchedAt": "2026-09-13T16:37:16.812Z",
       "researchOnly": true
     },
     {
@@ -202012,7 +202012,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:16.411Z",
+      "fetchedAt": "2026-09-13T16:37:16.859Z",
       "researchOnly": true
     },
     {
@@ -203750,7 +203750,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:16.751Z",
+      "fetchedAt": "2026-09-13T16:37:16.906Z",
       "researchOnly": true
     },
     {
@@ -205488,7 +205488,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:16.456Z",
+      "fetchedAt": "2026-09-13T16:37:16.871Z",
       "researchOnly": true
     },
     {
@@ -207226,7 +207226,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:16.532Z",
+      "fetchedAt": "2026-09-13T16:37:16.912Z",
       "researchOnly": true
     },
     {
@@ -208964,7 +208964,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:16.527Z",
+      "fetchedAt": "2026-09-13T16:37:16.887Z",
       "researchOnly": true
     },
     {
@@ -210702,7 +210702,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:16.595Z",
+      "fetchedAt": "2026-09-13T16:37:16.944Z",
       "researchOnly": true
     },
     {
@@ -212440,7 +212440,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:16.550Z",
+      "fetchedAt": "2026-09-13T16:37:16.916Z",
       "researchOnly": true
     },
     {
@@ -214178,7 +214178,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:16.605Z",
+      "fetchedAt": "2026-09-13T16:37:16.941Z",
       "researchOnly": true
     },
     {
@@ -215916,7 +215916,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:16.711Z",
+      "fetchedAt": "2026-09-13T16:37:17.079Z",
       "researchOnly": true
     },
     {
@@ -217654,7 +217654,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:16.709Z",
+      "fetchedAt": "2026-09-13T16:37:17.131Z",
       "researchOnly": true
     },
     {
@@ -219392,7 +219392,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:16.664Z",
+      "fetchedAt": "2026-09-13T16:37:17.074Z",
       "researchOnly": true
     },
     {
@@ -221130,7 +221130,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:16.694Z",
+      "fetchedAt": "2026-09-13T16:37:17.139Z",
       "researchOnly": true
     },
     {
@@ -222868,7 +222868,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:16.725Z",
+      "fetchedAt": "2026-09-13T16:37:17.184Z",
       "researchOnly": true
     },
     {
@@ -224606,7 +224606,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:16.707Z",
+      "fetchedAt": "2026-09-13T16:37:17.136Z",
       "researchOnly": true
     },
     {
@@ -226344,7 +226344,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:16.806Z",
+      "fetchedAt": "2026-09-13T16:37:17.186Z",
       "researchOnly": true
     },
     {
@@ -228082,7 +228082,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:16.833Z",
+      "fetchedAt": "2026-09-13T16:37:17.219Z",
       "researchOnly": true
     },
     {
@@ -229820,7 +229820,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:16.808Z",
+      "fetchedAt": "2026-09-13T16:37:17.160Z",
       "researchOnly": true
     },
     {
@@ -231558,7 +231558,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:16.889Z",
+      "fetchedAt": "2026-09-13T16:37:17.202Z",
       "researchOnly": true
     },
     {
@@ -233296,7 +233296,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:16.861Z",
+      "fetchedAt": "2026-09-13T16:37:17.217Z",
       "researchOnly": true
     },
     {
@@ -235034,7 +235034,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:16.963Z",
+      "fetchedAt": "2026-09-13T16:37:17.227Z",
       "researchOnly": true
     },
     {
@@ -236772,7 +236772,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:16.942Z",
+      "fetchedAt": "2026-09-13T16:37:17.325Z",
       "researchOnly": true
     },
     {
@@ -238510,7 +238510,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:16.961Z",
+      "fetchedAt": "2026-09-13T16:37:17.340Z",
       "researchOnly": true
     },
     {
@@ -240248,7 +240248,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:17.297Z",
+      "fetchedAt": "2026-09-13T16:37:17.392Z",
       "researchOnly": true
     },
     {
@@ -241986,7 +241986,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:17.330Z",
+      "fetchedAt": "2026-09-13T16:37:17.431Z",
       "researchOnly": true
     },
     {
@@ -243724,7 +243724,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:16.975Z",
+      "fetchedAt": "2026-09-13T16:37:17.387Z",
       "researchOnly": true
     },
     {
@@ -245462,7 +245462,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:17.059Z",
+      "fetchedAt": "2026-09-13T16:37:17.470Z",
       "researchOnly": true
     },
     {
@@ -247200,7 +247200,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:17.100Z",
+      "fetchedAt": "2026-09-13T16:37:17.479Z",
       "researchOnly": true
     },
     {
@@ -248938,7 +248938,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:17.113Z",
+      "fetchedAt": "2026-09-13T16:37:17.498Z",
       "researchOnly": true
     },
     {
@@ -250676,7 +250676,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:17.121Z",
+      "fetchedAt": "2026-09-13T16:37:17.500Z",
       "researchOnly": true
     },
     {
@@ -252414,7 +252414,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:17.170Z",
+      "fetchedAt": "2026-09-13T16:37:17.513Z",
       "researchOnly": true
     },
     {
@@ -254152,7 +254152,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:17.149Z",
+      "fetchedAt": "2026-09-13T16:37:17.459Z",
       "researchOnly": true
     },
     {
@@ -255890,7 +255890,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:17.225Z",
+      "fetchedAt": "2026-09-13T16:37:17.511Z",
       "researchOnly": true
     },
     {
@@ -257628,7 +257628,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:17.241Z",
+      "fetchedAt": "2026-09-13T16:37:17.603Z",
       "researchOnly": true
     },
     {
@@ -259366,7 +259366,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:17.240Z",
+      "fetchedAt": "2026-09-13T16:37:17.621Z",
       "researchOnly": true
     },
     {
@@ -261104,7 +261104,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:17.238Z",
+      "fetchedAt": "2026-09-13T16:37:17.646Z",
       "researchOnly": true
     },
     {
@@ -262842,7 +262842,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:17.329Z",
+      "fetchedAt": "2026-09-13T16:37:17.659Z",
       "researchOnly": true
     },
     {
@@ -264580,7 +264580,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:17.387Z",
+      "fetchedAt": "2026-09-13T16:37:17.703Z",
       "researchOnly": true
     },
     {
@@ -266318,7 +266318,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:17.386Z",
+      "fetchedAt": "2026-09-13T16:37:17.723Z",
       "researchOnly": true
     },
     {
@@ -268056,7 +268056,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:17.409Z",
+      "fetchedAt": "2026-09-13T16:37:17.753Z",
       "researchOnly": true
     },
     {
@@ -269794,7 +269794,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:17.424Z",
+      "fetchedAt": "2026-09-13T16:37:18.150Z",
       "researchOnly": true
     },
     {
@@ -271532,7 +271532,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:17.431Z",
+      "fetchedAt": "2026-09-13T16:37:17.803Z",
       "researchOnly": true
     },
     {
@@ -273270,7 +273270,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:17.520Z",
+      "fetchedAt": "2026-09-13T16:37:17.838Z",
       "researchOnly": true
     },
     {
@@ -275008,7 +275008,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:17.515Z",
+      "fetchedAt": "2026-09-13T16:37:17.803Z",
       "researchOnly": true
     },
     {
@@ -276746,7 +276746,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:17.845Z",
+      "fetchedAt": "2026-09-13T16:37:17.811Z",
       "researchOnly": true
     },
     {
@@ -278484,7 +278484,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:17.859Z",
+      "fetchedAt": "2026-09-13T16:37:17.853Z",
       "researchOnly": true
     },
     {
@@ -280222,7 +280222,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:17.626Z",
+      "fetchedAt": "2026-09-13T16:37:17.908Z",
       "researchOnly": true
     },
     {
@@ -281960,7 +281960,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:17.616Z",
+      "fetchedAt": "2026-09-13T16:37:17.903Z",
       "researchOnly": true
     },
     {
@@ -283698,7 +283698,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:17.634Z",
+      "fetchedAt": "2026-09-13T16:37:17.970Z",
       "researchOnly": true
     },
     {
@@ -285436,7 +285436,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:17.676Z",
+      "fetchedAt": "2026-09-13T16:37:18.019Z",
       "researchOnly": true
     },
     {
@@ -287174,7 +287174,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:18.037Z",
+      "fetchedAt": "2026-09-13T16:37:17.996Z",
       "researchOnly": true
     },
     {
@@ -288912,7 +288912,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:17.681Z",
+      "fetchedAt": "2026-09-13T16:37:18.054Z",
       "researchOnly": true
     },
     {
@@ -290650,7 +290650,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:17.712Z",
+      "fetchedAt": "2026-09-13T16:37:18.083Z",
       "researchOnly": true
     },
     {
@@ -292388,7 +292388,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:17.723Z",
+      "fetchedAt": "2026-09-13T16:37:18.120Z",
       "researchOnly": true
     },
     {
@@ -294126,7 +294126,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:17.827Z",
+      "fetchedAt": "2026-09-13T16:37:18.121Z",
       "researchOnly": true
     },
     {
@@ -295864,7 +295864,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:18.199Z",
+      "fetchedAt": "2026-09-13T16:37:18.145Z",
       "researchOnly": true
     },
     {
@@ -295887,11 +295887,11 @@
       "beta": 0.2021,
       "fiftyTwoWeekLow": 0,
       "fiftyTwoWeekHigh": 0,
-      "sector": "Consumer Cyclical",
-      "industry": "Apparel Retail",
+      "sector": "general",
+      "industry": "",
       "quarterlyRevenueGrowth": 0.054093,
       "metadataSource": {
-        "sector": "yahoo-search",
+        "sector": "unavailable",
         "trailingPE": "yahoo-fundamentals-timeseries",
         "marketCap": "yahoo-fundamentals-timeseries",
         "dividendYield": "yahoo-chart-dividend-events",
@@ -297602,7 +297602,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:17.908Z",
+      "fetchedAt": "2026-09-13T16:37:18.114Z",
       "researchOnly": true
     },
     {
@@ -299340,7 +299340,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:17.923Z",
+      "fetchedAt": "2026-09-13T16:37:18.185Z",
       "researchOnly": true
     },
     {
@@ -301078,7 +301078,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:17.915Z",
+      "fetchedAt": "2026-09-13T16:37:18.172Z",
       "researchOnly": true
     },
     {
@@ -302816,7 +302816,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:17.916Z",
+      "fetchedAt": "2026-09-13T16:37:18.600Z",
       "researchOnly": true
     },
     {
@@ -304554,7 +304554,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:17.931Z",
+      "fetchedAt": "2026-09-13T16:37:18.262Z",
       "researchOnly": true
     },
     {
@@ -306292,7 +306292,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:18.016Z",
+      "fetchedAt": "2026-09-13T16:37:18.314Z",
       "researchOnly": true
     },
     {
@@ -308030,7 +308030,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:17.973Z",
+      "fetchedAt": "2026-09-13T16:37:18.326Z",
       "researchOnly": true
     },
     {
@@ -309768,7 +309768,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:18.122Z",
+      "fetchedAt": "2026-09-13T16:37:18.363Z",
       "researchOnly": true
     },
     {
@@ -311506,7 +311506,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:18.150Z",
+      "fetchedAt": "2026-09-13T16:37:18.403Z",
       "researchOnly": true
     },
     {
@@ -313244,7 +313244,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:18.517Z",
+      "fetchedAt": "2026-09-13T16:37:18.395Z",
       "researchOnly": true
     },
     {
@@ -314982,7 +314982,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:18.213Z",
+      "fetchedAt": "2026-09-13T16:37:18.423Z",
       "researchOnly": true
     },
     {
@@ -316720,7 +316720,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:18.182Z",
+      "fetchedAt": "2026-09-13T16:37:18.440Z",
       "researchOnly": true
     },
     {
@@ -318458,7 +318458,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:18.546Z",
+      "fetchedAt": "2026-09-13T16:37:18.475Z",
       "researchOnly": true
     },
     {
@@ -320196,7 +320196,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:18.172Z",
+      "fetchedAt": "2026-09-13T16:37:18.428Z",
       "researchOnly": true
     },
     {
@@ -321934,7 +321934,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:18.228Z",
+      "fetchedAt": "2026-09-13T16:37:18.480Z",
       "researchOnly": true
     },
     {
@@ -323672,7 +323672,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:18.251Z",
+      "fetchedAt": "2026-09-13T16:37:18.898Z",
       "researchOnly": true
     },
     {
@@ -325410,7 +325410,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:18.270Z",
+      "fetchedAt": "2026-09-13T16:37:18.573Z",
       "researchOnly": true
     },
     {
@@ -327148,7 +327148,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:18.348Z",
+      "fetchedAt": "2026-09-13T16:37:18.640Z",
       "researchOnly": true
     },
     {
@@ -327167,7 +327167,7 @@
       "marketCap": 85323203176,
       "trailingPE": 30.192362,
       "forwardPE": 0,
-      "dividendYield": 0.021011,
+      "dividendYield": 0.017146,
       "beta": -0.4925,
       "fiftyTwoWeekLow": 0,
       "fiftyTwoWeekHigh": 0,
@@ -328886,7 +328886,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:18.395Z",
+      "fetchedAt": "2026-09-13T16:37:18.655Z",
       "researchOnly": true
     },
     {
@@ -328905,7 +328905,7 @@
       "marketCap": 89107750335,
       "trailingPE": 29.023904,
       "forwardPE": 0,
-      "dividendYield": 0.035347,
+      "dividendYield": 0.028483,
       "beta": -0.0934,
       "fiftyTwoWeekLow": 0,
       "fiftyTwoWeekHigh": 0,
@@ -330624,7 +330624,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:18.453Z",
+      "fetchedAt": "2026-09-13T16:37:18.694Z",
       "researchOnly": true
     },
     {
@@ -332362,7 +332362,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:18.460Z",
+      "fetchedAt": "2026-09-13T16:37:18.705Z",
       "researchOnly": true
     },
     {
@@ -334100,7 +334100,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:18.492Z",
+      "fetchedAt": "2026-09-13T16:37:18.725Z",
       "researchOnly": true
     },
     {
@@ -335838,7 +335838,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:18.479Z",
+      "fetchedAt": "2026-09-13T16:37:18.705Z",
       "researchOnly": true
     },
     {
@@ -337576,7 +337576,7 @@
       },
       "source": "YAHOO_CHART_ENRICHED_VERCEL",
       "provider": "yahoo-finance-chart-search-fundamentals",
-      "fetchedAt": "2026-09-12T16:37:18.485Z",
+      "fetchedAt": "2026-09-13T16:37:18.714Z",
       "researchOnly": true
     }
   ]
